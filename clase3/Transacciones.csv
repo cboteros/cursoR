@@ -1,0 +1,2142 @@
+Id;Fecha_Compra;Valor_Compra;Producto;Color;Marca
+191;13/01/2009;322;Camisa;Azul;Gef
+68;25/03/2009;267;Pantalon;Amarillo;Arturo Calle
+87;16/04/2009;144;Camiseta;Verde;Tennis
+60;3/08/2008;341;Pantalon;Blanco;Levis
+33;6/04/2009;87;Camiseta;Negro;Polo Club
+61;19/04/2008;143;Interior;Rojo;Tennis
+15;6/05/2009;212;Pantalon;Azul;Levis
+68;11/06/2009;130;Camiseta;Amarillo;Polo Club
+3;12/08/2008;262;Pantalon;Verde;Gef
+43;15/11/2008;250;Interior;Blanco;Arturo Calle
+61;1/01/2009;258;Pantalon;Negro;Tennis
+137;26/12/2008;125;Accesorios;Rojo;Levis
+125;14/02/2009;182;Interior;Verde;Levis
+30;19/10/2007;146;Pantalon;Blanco;Polo Club
+171;16/02/2009;174;Pantalon;Negro;Gef
+173;26/06/2009;284;Interior;Rojo;Arturo Calle
+28;8/06/2009;325;Interior;Rojo;Tennis
+107;5/12/2008;317;Camiseta;Azul;Levis
+140;29/05/2008;257;Camisa;Amarillo;Levis
+22;2/01/2009;274;Interior;Verde;Polo Club
+114;11/04/2009;138;Pantalon;Rojo;Arturo Calle
+57;21/04/2009;185;Pantalon;Verde;Tennis
+62;12/06/2008;180;Interior;Blanco;Levis
+134;12/01/2009;103;Interior;Negro;Polo Club
+30;5/09/2010;121;Interior;Rojo;Tennis
+24;9/10/2009;183;Camisa;Rojo;Levis
+44;3/02/2010;131;Pantalon;Azul;Polo Club
+2;6/03/2008;139;Camiseta;Azul;Tennis
+76;24/10/2009;89;Camiseta;Amarillo;Levis
+19;17/05/2009;298;Accesorios;Verde;Polo Club
+46;30/05/2013;317;Accesorios;Rojo;Tennis
+67;27/03/2013;83;Camisa;Verde;Levis
+50;2/07/2009;253;Pantalon;Blanco;Polo Club
+47;14/09/2009;172;Pantalon;Negro;Gef
+96;20/09/2009;115;Pantalon;Verde;Arturo Calle
+116;24/06/2008;279;Camiseta;Blanco;Tennis
+150;15/12/2008;301;Camisa;Negro;Levis
+185;21/08/2009;124;Accesorios;Verde;Levis
+62;15/06/2009;81;Pantalon;Blanco;Polo Club
+159;27/06/2009;49;Camisa;Negro;Gef
+190;6/10/2008;181;Interior;Rojo;Arturo Calle
+23;26/01/2008;276;Accesorios;Rojo;Gef
+190;13/05/2009;168;Camiseta;Azul;Arturo Calle
+17;24/02/2014;185;Interior;Azul;Tennis
+180;21/07/2009;82;Camiseta;Amarillo;Levis
+33;20/08/2009;173;Accesorios;Verde;Polo Club
+155;30/11/2008;307;Interior;Rojo;Tennis
+75;6/08/2009;229;Interior;Verde;Levis
+12;15/01/2010;105;Camisa;Amarillo;Polo Club
+49;7/09/2009;294;Camisa;Verde;Gef
+93;2/12/2009;288;Interior;Rojo;Arturo Calle
+2;1/01/2009;210;Accesorios;Verde;Tennis
+48;3/03/2009;172;Accesorios;Azul;Levis
+133;12/12/2009;343;Interior;Amarillo;Levis
+158;6/12/2008;69;Pantalon;Verde;Polo Club
+151;12/01/2010;170;Interior;Blanco;Gef
+112;1/12/2009;84;Pantalon;Negro;Arturo Calle
+152;23/10/2009;139;Pantalon;Rojo;Tennis
+10;29/12/2009;189;Camisa;Azul;Levis
+112;4/01/2010;198;Camiseta;Amarillo;Polo Club
+96;8/06/2008;133;Interior;Verde;Tennis
+112;26/02/2010;65;Camisa;Blanco;Levis
+2;1/12/2008;82;Camiseta;Negro;Polo Club
+199;16/03/2009;342;Interior;Rojo;Gef
+156;20/02/2010;114;Camiseta;Verde;Arturo Calle
+11;13/04/2010;289;Interior;Blanco;Tennis
+108;18/02/2010;237;Accesorios;Negro;Levis
+95;12/11/2008;302;Camisa;Rojo;Levis
+87;12/01/2009;293;Pantalon;Rojo;Polo Club
+36;15/04/2009;57;Camisa;Azul;Gef
+100;1/04/2010;145;Camiseta;Amarillo;Arturo Calle
+89;3/10/2009;313;Camiseta;Verde;Tennis
+190;26/12/2009;243;Pantalon;Rojo;Levis
+158;11/03/2010;123;Interior;Verde;Polo Club
+37;18/11/2009;136;Camisa;Blanco;Tennis
+116;30/09/2009;68;Pantalon;Negro;Levis
+139;3/05/2010;251;Accesorios;Rojo;Polo Club
+184;20/03/2010;248;Camisa;Rojo;Gef
+46;7/04/2010;278;Pantalon;Azul;Arturo Calle
+38;16/04/2010;241;Camiseta;Azul;Tennis
+197;10/07/2010;247;Camisa;Amarillo;Levis
+97;14/04/2010;135;Interior;Verde;Levis
+61;29/10/2009;259;Pantalon;Rojo;Polo Club
+159;20/07/2010;258;Camisa;Verde;Gef
+164;20/12/2009;225;Interior;Blanco;Arturo Calle
+106;17/03/2010;310;Camisa;Negro;Tennis
+116;17/05/2010;211;Interior;Verde;Levis
+128;;349;Accesorios;Blanco;Levis
+9;2/04/2010;346;Camiseta;Negro;Polo Club
+54;22/01/2010;189;Camiseta;Verde;Arturo Calle
+114;2/10/2009;263;Pantalon;Blanco;Tennis
+84;20/11/2015;318;Camisa;Negro;Levis
+169;14/12/2009;227;Accesorios;Rojo;Polo Club
+121;22/06/2010;142;Accesorios;Rojo;Tennis
+84;31/12/2014;324;Interior;Azul;Levis
+84;25/10/2009;74;Pantalon;Azul;Polo Club
+136;25/08/2010;184;Camisa;Amarillo;Tennis
+189;19/09/2010;50;Camiseta;Verde;Levis
+51;24/07/2010;340;Pantalon;Rojo;Polo Club
+122;26/08/2010;182;Camiseta;Verde;Tennis
+191;6/02/2011;102;Interior;Amarillo;Levis
+105;;102;Camiseta;Verde;Polo Club
+145;11/03/2011;206;Interior;Rojo;Gef
+111;3/03/2011;210;Accesorios;Verde;Arturo Calle
+30;25/06/2015;148;Interior;Amarillo;Tennis
+38;15/05/2011;235;Camisa;Rojo;Levis
+98;19/01/2012;82;Pantalon;Rojo;Levis
+69;30/08/2011;96;Accesorios;Azul;Polo Club
+181;3/04/2012;251;Pantalon;Azul;Gef
+125;20/04/2012;131;Interior;Amarillo;Arturo Calle
+134;30/12/2011;209;Accesorios;Verde;Gef
+189;30/09/2011;113;Accesorios;Rojo;Arturo Calle
+111;1/03/2012;203;Camisa;Verde;Tennis
+140;27/04/2012;176;Pantalon;Amarillo;Levis
+195;12/04/2012;248;Accesorios;Verde;Polo Club
+139;22/09/2012;315;Accesorios;Rojo;Tennis
+79;3/03/2013;124;Camisa;Verde;Levis
+57;13/12/2011;248;Camisa;Verde;Polo Club
+75;25/01/2013;96;Accesorios;Blanco;Gef
+42;1/06/2013;239;Interior;Negro;Arturo Calle
+97;3/11/2013;341;Camiseta;Rojo;Tennis
+30;21/10/2013;238;Accesorios;Azul;Levis
+55;7/01/2014;156;Camiseta;Amarillo;Levis
+98;1/01/2014;269;Interior;Verde;Polo Club
+153;14/08/2013;300;Camiseta;Blanco;Gef
+109;3/10/2014;320;Interior;Negro;Arturo Calle
+121;9/11/2014;83;Pantalon;Rojo;Tennis
+88;28/05/2014;281;Interior;Verde;Levis
+126;28/12/2014;94;Pantalon;Blanco;Polo Club
+85;7/10/2014;350;Camiseta;Negro;Tennis
+61;12/08/2015;175;Interior;Rojo;Levis
+149;9/04/2003;333;Interior;Rojo;Polo Club
+189;10/10/2001;133;Accesorios;Azul;Gef
+182;20/05/2002;163;Camiseta;Amarillo;Arturo Calle
+165;7/10/2002;120;Accesorios;Verde;Tennis
+141;8/12/2001;108;Camiseta;Rojo;Levis
+67;2/05/2000;73;Pantalon;Verde;Levis
+16;17/05/2001;336;Camisa;Blanco;Polo Club
+167;20/12/2003;275;Camiseta;Negro;Levis
+61;16/02/2001;177;Camisa;Rojo;Polo Club
+132;23/12/2003;158;Camiseta;Rojo;Gef
+152;5/03/2004;131;Accesorios;Azul;Arturo Calle
+99;17/12/2003;261;Interior;Azul;Tennis
+159;27/05/2004;266;Interior;Amarillo;Levis
+25;9/05/2013;313;Camiseta;Verde;Levis
+20;15/02/2005;85;Pantalon;Blanco;Polo Club
+162;9/07/2005;144;Accesorios;Negro;Gef
+58;5/06/2005;322;Camiseta;Rojo;Arturo Calle
+159;27/10/2005;173;Pantalon;Azul;Tennis
+142;;67;Interior;Amarillo;Levis
+178;25/03/2008;293;Camisa;Verde;Polo Club
+173;28/12/2007;250;Camiseta;Blanco;Tennis
+11;1/01/2008;89;Camisa;Negro;Levis
+43;9/08/2012;330;Camiseta;Rojo;Polo Club
+61;16/01/2008;155;Accesorios;Verde;Gef
+189;30/10/2007;267;Pantalon;Blanco;Arturo Calle
+60;23/08/2008;232;Interior;Negro;Tennis
+60;7/03/2008;306;Pantalon;Rojo;Levis
+143;10/05/2008;300;Accesorios;Rojo;Levis
+41;6/06/2008;336;Camisa;Azul;Polo Club
+15;19/04/2008;69;Camiseta;Amarillo;Gef
+132;30/08/2008;324;Camiseta;Verde;Arturo Calle
+36;15/03/2008;89;Camisa;Rojo;Tennis
+74;17/04/2007;333;Pantalon;Verde;Levis
+3;7/03/2008;263;Pantalon;Blanco;Polo Club
+45;13/09/2012;348;Camisa;Negro;Tennis
+6;23/06/2008;202;Interior;Rojo;Levis
+159;28/03/2008;292;Camisa;Rojo;Polo Club
+182;5/08/2008;97;Accesorios;Azul;Gef
+78;18/05/2009;77;Pantalon;Azul;Arturo Calle
+121;14/04/2008;223;Interior;Amarillo;Tennis
+21;30/09/2008;144;Camiseta;Verde;Levis
+23;26/08/2014;228;Camiseta;Rojo;Levis
+75;27/03/2008;290;Pantalon;Verde;Polo Club
+52;25/12/2007;238;Pantalon;Blanco;Gef
+82;6/06/2008;46;Camiseta;Negro;Arturo Calle
+35;7/09/2008;42;Camisa;Verde;Tennis
+58;20/07/2009;200;Camisa;Blanco;Levis
+182;24/09/2008;76;Interior;Negro;Levis
+111;;248;Camiseta;Verde;Polo Club
+5;24/03/2008;267;Camisa;Blanco;Arturo Calle
+58;13/05/2008;341;Interior;Negro;Tennis
+115;6/04/2008;339;Camisa;Rojo;Levis
+73;18/04/2008;157;Accesorios;Rojo;Polo Club
+139;7/07/2008;38;Interior;Azul;Tennis
+112;18/01/2008;145;Camisa;Azul;Levis
+109;10/05/2007;216;Accesorios;Amarillo;Polo Club
+4;18/07/2008;186;Accesorios;Verde;Tennis
+38;18/10/2008;194;Camisa;Rojo;Levis
+130;14/02/2011;334;Accesorios;Verde;Polo Club
+59;9/02/2008;106;Camiseta;Amarillo;Tennis
+70;24/07/2008;137;Camisa;Verde;Levis
+36;24/07/2016;57;Accesorios;Rojo;Polo Club
+180;24/08/2008;240;Camiseta;Verde;Gef
+4;28/03/2008;56;Accesorios;Azul;Arturo Calle
+32;3/12/2008;164;Camisa;Amarillo;Tennis
+58;25/12/2008;40;Camisa;Verde;Levis
+149;3/10/2007;333;Camisa;Blanco;Levis
+127;29/05/2008;182;Interior;Negro;Polo Club
+125;30/09/2008;313;Accesorios;Rojo;Gef
+158;9/05/2008;205;Camisa;Azul;Arturo Calle
+183;31/05/2008;89;Interior;Amarillo;Gef
+164;18/05/2008;301;Camiseta;Verde;Levis
+147;13/04/2008;317;Accesorios;Blanco;Polo Club
+107;6/11/2008;61;Camisa;Negro;Tennis
+139;6/05/2007;330;Camiseta;Rojo;Levis
+83;24/04/2008;333;Accesorios;Verde;Polo Club
+130;15/09/2007;290;Accesorios;Blanco;Gef
+105;9/10/2008;137;Pantalon;Negro;Arturo Calle
+96;15/03/2008;308;Interior;Rojo;Tennis
+109;20/02/2008;248;Camisa;Rojo;Levis
+155;28/10/2007;283;Pantalon;Azul;Levis
+120;11/07/2007;263;Pantalon;Amarillo;Polo Club
+175;24/06/2012;165;Camisa;Verde;Gef
+52;8/07/2008;167;Accesorios;Rojo;Arturo Calle
+83;16/04/2008;151;Camisa;Verde;Tennis
+147;7/03/2008;168;Camiseta;Blanco;Levis
+1;16/10/2007;282;Interior;Negro;Polo Club
+106;20/08/2008;330;Accesorios;Rojo;Tennis
+137;3/09/2008;199;Pantalon;Rojo;Levis
+95;1/12/2015;332;Camisa;Azul;Polo Club
+103;10/03/2008;268;Camiseta;Azul;Gef
+55;10/06/2008;220;Camiseta;Amarillo;Arturo Calle
+47;26/07/2007;346;Camiseta;Verde;Tennis
+19;17/07/2009;309;Pantalon;Rojo;Levis
+102;7/06/2007;95;Accesorios;Verde;Levis
+181;4/12/2007;56;Accesorios;Blanco;Polo Club
+181;8/12/2008;209;Accesorios;Negro;Gef
+58;14/03/2007;237;Camisa;Verde;Arturo Calle
+45;28/11/2008;261;Interior;Blanco;Tennis
+125;23/06/2009;228;Camiseta;Negro;Levis
+40;29/03/2008;57;Interior;Verde;Levis
+157;11/01/2008;86;Accesorios;Blanco;Polo Club
+34;2/04/2008;159;Camisa;Negro;Arturo Calle
+113;9/10/2008;63;Camisa;Rojo;Tennis
+41;19/11/2008;194;Pantalon;Rojo;Levis
+53;17/04/2007;182;Camisa;Azul;Polo Club
+36;28/06/2008;215;Accesorios;Azul;Tennis
+72;9/07/2008;207;Camiseta;Amarillo;Levis
+146;16/02/2008;150;Camiseta;Verde;Polo Club
+15;28/08/2007;253;Camisa;Rojo;Tennis
+42;28/06/2009;182;Camiseta;Verde;Levis
+113;27/02/2008;196;Camisa;Amarillo;Polo Club
+110;25/01/2009;339;Interior;Verde;Tennis
+27;20/09/2008;118;Camiseta;Rojo;Levis
+50;23/07/2015;347;Accesorios;Verde;Polo Club
+24;18/09/2008;277;Pantalon;Amarillo;Gef
+85;7/01/2009;117;Pantalon;Rojo;Arturo Calle
+69;2/09/2008;164;Pantalon;Rojo;Tennis
+101;8/09/2007;127;Camiseta;Azul;Levis
+117;8/03/2009;237;Interior;Azul;Levis
+199;9/01/2009;215;Camiseta;Amarillo;Polo Club
+83;8/05/2008;231;Camiseta;Verde;Gef
+130;2/03/2007;150;Pantalon;Rojo;Arturo Calle
+103;28/07/2008;207;Accesorios;Verde;Gef
+200;5/07/2008;206;Accesorios;Amarillo;Arturo Calle
+109;14/02/2009;67;Camisa;Verde;Tennis
+141;9/11/2008;298;Interior;Rojo;Levis
+64;16/06/2007;114;Camisa;Verde;Polo Club
+46;12/06/2007;83;Pantalon;Verde;Tennis
+45;22/03/2008;276;Camiseta;Blanco;Levis
+53;12/12/2007;105;Pantalon;Negro;Polo Club
+172;1/09/2007;105;Camiseta;Rojo;Gef
+155;7/08/2015;263;Interior;Azul;Arturo Calle
+195;7/10/2008;180;Accesorios;Amarillo;Tennis
+91;10/05/2010;63;Camiseta;Verde;Levis
+159;21/12/2008;66;Accesorios;Blanco;Levis
+148;17/10/2008;155;Pantalon;Negro;Polo Club
+110;10/10/2008;186;Camiseta;Rojo;Gef
+94;6/03/2009;308;Camiseta;Verde;Arturo Calle
+186;4/04/2009;241;Pantalon;Blanco;Tennis
+179;11/02/2008;77;Camiseta;Negro;Levis
+121;13/01/2009;121;Pantalon;Rojo;Polo Club
+100;11/11/2007;154;Accesorios;Rojo;Tennis
+19;10/07/2009;215;Accesorios;Azul;Levis
+187;18/08/2007;39;Interior;Amarillo;Polo Club
+92;12/06/2007;254;Camiseta;Verde;Gef
+87;19/01/2009;156;Interior;Rojo;Arturo Calle
+172;11/08/2007;311;Interior;Verde;Tennis
+31;21/02/2008;284;Accesorios;Blanco;Levis
+15;18/05/2008;67;Camisa;Negro;Levis
+198;23/03/2012;70;Accesorios;Rojo;Polo Club
+150;27/12/2008;316;Accesorios;Rojo;Gef
+144;26/07/2009;202;Camiseta;Azul;Arturo Calle
+9;25/04/2008;74;Camisa;Azul;Tennis
+98;10/01/2008;159;Accesorios;Amarillo;Levis
+73;12/10/2008;65;Pantalon;Verde;Polo Club
+49;10/09/2008;345;Camiseta;Blanco;Tennis
+36;22/01/2009;162;Pantalon;Negro;Levis
+17;24/10/2008;135;Accesorios;Rojo;Polo Club
+123;20/11/2007;155;Pantalon;Azul;Gef
+50;3/01/2009;150;Pantalon;Amarillo;Arturo Calle
+142;10/06/2009;315;Pantalon;Verde;Tennis
+183;8/11/2008;336;Accesorios;Blanco;Levis
+64;6/04/2009;276;Accesorios;Negro;Levis
+89;24/09/2007;141;Interior;Rojo;Polo Club
+101;17/07/2012;46;Pantalon;Verde;Gef
+36;1/01/2010;291;Camiseta;Blanco;Arturo Calle
+95;1/01/2010;165;Camisa;Negro;Tennis
+101;21/03/2016;299;Camisa;Rojo;Levis
+25;28/12/2007;272;Accesorios;Rojo;Levis
+39;2/09/2008;43;Camisa;Azul;Polo Club
+91;27/07/2008;245;Accesorios;Amarillo;Arturo Calle
+80;8/06/2011;48;Pantalon;Verde;Tennis
+107;14/03/2009;108;Camisa;Rojo;Levis
+17;28/01/2009;137;Pantalon;Verde;Polo Club
+37;16/09/2007;171;Accesorios;Blanco;Tennis
+188;1/01/2010;181;Pantalon;Negro;Levis
+186;15/10/2008;66;Accesorios;Rojo;Polo Club
+102;23/10/2008;334;Camiseta;Rojo;Tennis
+15;16/11/2007;115;Accesorios;Azul;Levis
+122;10/01/2009;350;Interior;Azul;Polo Club
+179;2/05/2008;256;Camiseta;Amarillo;Tennis
+45;19/03/2008;187;Camisa;Verde;Levis
+101;7/01/2009;87;Camisa;Rojo;Polo Club
+179;18/02/2009;151;Camisa;Verde;Gef
+98;14/02/2009;158;Camiseta;Blanco;Arturo Calle
+160;15/09/2010;272;Interior;Negro;Tennis
+185;23/01/2012;172;Camiseta;Verde;Levis
+165;23/01/2009;333;Camisa;Blanco;Levis
+96;29/01/2009;42;Pantalon;Negro;Polo Club
+101;28/06/2008;124;Camiseta;Verde;Gef
+170;19/09/2008;58;Interior;Blanco;Arturo Calle
+119;1/11/2008;197;Accesorios;Negro;Gef
+139;9/01/2008;41;Camiseta;Rojo;Arturo Calle
+18;10/10/2008;344;Interior;Rojo;Tennis
+89;13/04/2009;95;Pantalon;Azul;Levis
+56;16/02/2009;121;Interior;Azul;Polo Club
+187;9/01/2009;248;Accesorios;Amarillo;Tennis
+88;24/05/2009;182;Accesorios;Verde;Levis
+113;3/11/2008;128;Accesorios;Rojo;Polo Club
+122;9/10/2008;50;Pantalon;Verde;Gef
+192;12/09/2008;260;Camisa;Amarillo;Arturo Calle
+178;25/01/2008;32;Interior;Verde;Tennis
+61;9/12/2008;266;Accesorios;Rojo;Levis
+157;18/03/2008;189;Camiseta;Verde;Levis
+103;18/03/2009;92;Camisa;Azul;Polo Club
+8;14/05/2008;170;Interior;Amarillo;Gef
+113;13/04/2008;306;Accesorios;Verde;Arturo Calle
+63;31/12/2008;301;Pantalon;Blanco;Tennis
+99;20/02/2009;304;Pantalon;Negro;Levis
+196;29/10/2007;301;Accesorios;Rojo;Polo Club
+84;19/01/2009;124;Accesorios;Azul;Tennis
+165;20/03/2009;81;Accesorios;Amarillo;Levis
+25;22/05/2009;337;Interior;Verde;Polo Club
+7;10/08/2008;213;Camiseta;Blanco;Gef
+17;16/03/2008;186;Pantalon;Negro;Arturo Calle
+42;17/04/2009;222;Interior;Rojo;Tennis
+159;28/10/2009;228;Interior;Verde;Levis
+69;25/02/2009;165;Camiseta;Blanco;Levis
+148;5/06/2010;150;Camisa;Negro;Polo Club
+33;4/02/2009;285;Camiseta;Rojo;Levis
+152;29/10/2008;65;Accesorios;Rojo;Polo Club
+188;30/04/2009;240;Pantalon;Azul;Gef
+62;15/06/2009;293;Accesorios;Amarillo;Arturo Calle
+173;19/05/2009;210;Camiseta;Verde;Tennis
+9;27/10/2008;269;Camisa;Rojo;Levis
+43;16/03/2008;287;Interior;Verde;Levis
+8;21/04/2009;99;Camiseta;Blanco;Polo Club
+16;12/09/2007;129;Pantalon;Negro;Gef
+112;1/01/2010;330;Camiseta;Rojo;Arturo Calle
+21;20/10/2007;241;Accesorios;Rojo;Tennis
+109;2/03/2009;146;Camisa;Azul;Levis
+157;1/06/2009;315;Interior;Azul;Polo Club
+112;14/03/2009;84;Interior;Amarillo;Tennis
+168;27/06/2008;214;Camisa;Verde;Levis
+49;8/08/2008;299;Camisa;Rojo;Polo Club
+66;6/01/2010;318;Interior;Verde;Gef
+58;30/01/2009;253;Camisa;Blanco;Arturo Calle
+62;28/07/2007;194;Interior;Negro;Tennis
+97;18/06/2009;324;Camisa;Verde;Levis
+95;22/05/2008;203;Accesorios;Blanco;Levis
+19;30/09/2009;124;Pantalon;Negro;Polo Club
+14;7/12/2008;248;Accesorios;Verde;Gef
+184;28/07/2008;123;Accesorios;Blanco;Arturo Calle
+184;8/02/2009;72;Camiseta;Negro;Tennis
+59;23/01/2009;65;Interior;Rojo;Levis
+181;30/03/2009;205;Camisa;Rojo;Polo Club
+34;17/06/2008;34;Camisa;Azul;Tennis
+115;13/11/2008;166;Camisa;Azul;Levis
+125;1/01/2010;195;Accesorios;Amarillo;Polo Club
+171;4/03/2016;340;Camisa;Verde;Gef
+192;20/08/2008;220;Interior;Rojo;Arturo Calle
+186;1/01/2008;83;Camisa;Verde;Tennis
+147;5/05/2009;268;Camisa;Amarillo;Levis
+185;1/01/2010;344;Pantalon;Verde;Levis
+129;4/03/2010;116;Camiseta;Rojo;Polo Club
+180;14/03/2008;38;Camiseta;Verde;Gef
+138;7/01/2009;240;Accesorios;Amarillo;Arturo Calle
+20;15/07/2008;35;Camiseta;Rojo;Tennis
+21;20/08/2011;123;Pantalon;Rojo;Levis
+186;2/12/2008;349;Interior;Azul;Levis
+5;7/09/2007;167;Accesorios;Azul;Polo Club
+150;2/09/2008;62;Camisa;Amarillo;Arturo Calle
+30;8/02/2009;160;Interior;Verde;Tennis
+7;8/05/2009;308;Accesorios;Rojo;Levis
+139;4/05/2009;82;Accesorios;Verde;Polo Club
+185;5/05/2010;88;Interior;Amarillo;Tennis
+33;22/06/2008;65;Pantalon;Verde;Levis
+87;10/07/2009;262;Camisa;Rojo;Polo Club
+1;3/09/2009;156;Accesorios;Verde;Tennis
+113;19/06/2008;345;Camiseta;Verde;Levis
+1;30/01/2009;141;Accesorios;Blanco;Polo Club
+167;15/04/2009;65;Interior;Negro;Tennis
+176;1/01/2010;155;Interior;Rojo;Levis
+91;6/01/2008;293;Camisa;Azul;Polo Club
+125;9/06/2009;69;Camisa;Amarillo;Gef
+28;20/04/2008;186;Accesorios;Verde;Arturo Calle
+117;15/11/2006;110;Camiseta;Blanco;Tennis
+190;2/06/2009;260;Camiseta;Negro;Levis
+56;13/03/2008;207;Camiseta;Rojo;Levis
+26;26/04/2008;140;Interior;Verde;Polo Club
+90;15/06/2009;30;Camisa;Blanco;Gef
+44;1/01/2009;217;Camiseta;Negro;Arturo Calle
+65;22/03/2009;88;Interior;Rojo;Gef
+178;6/04/2009;316;Accesorios;Rojo;Levis
+32;6/02/2009;264;Accesorios;Azul;Polo Club
+176;5/02/2009;66;Pantalon;Amarillo;Tennis
+152;14/02/2009;64;Interior;Verde;Levis
+6;15/07/2009;268;Camiseta;Rojo;Polo Club
+188;29/02/2008;339;Camisa;Verde;Gef
+85;24/02/2009;226;Pantalon;Blanco;Arturo Calle
+197;18/07/2008;83;Camisa;Negro;Tennis
+114;13/06/2009;37;Camiseta;Rojo;Levis
+177;26/05/2009;262;Accesorios;Rojo;Levis
+116;25/12/2008;42;Interior;Azul;Polo Club
+93;24/07/2008;68;Accesorios;Negro;Gef
+111;22/06/2009;308;Accesorios;Verde;Arturo Calle
+84;12/11/2009;79;Camisa;Blanco;Tennis
+193;13/06/2009;243;Accesorios;Negro;Levis
+144;29/11/2007;196;Pantalon;Verde;Polo Club
+104;19/06/2008;131;Camiseta;Blanco;Tennis
+33;16/08/2008;117;Camiseta;Negro;Levis
+51;29/07/2009;320;Camisa;Rojo;Polo Club
+87;28/06/2008;116;Camiseta;Rojo;Gef
+190;2/08/2009;66;Camisa;Azul;Arturo Calle
+37;28/05/2015;282;Camiseta;Azul;Tennis
+176;16/07/2009;77;Accesorios;Amarillo;Levis
+133;21/05/2009;142;Interior;Verde;Levis
+91;5/04/2009;183;Accesorios;Rojo;Polo Club
+167;20/06/2009;44;Camiseta;Verde;Gef
+174;21/12/2015;160;Pantalon;Amarillo;Arturo Calle
+66;29/08/2008;95;Camiseta;Verde;Tennis
+54;22/12/2008;37;Accesorios;Rojo;Levis
+180;23/05/2009;213;Camiseta;Verde;Levis
+72;26/08/2009;145;Camisa;Azul;Polo Club
+71;24/06/2008;273;Camisa;Amarillo;Arturo Calle
+186;9/12/2009;139;Pantalon;Verde;Tennis
+97;14/03/2008;133;Camisa;Blanco;Levis
+24;7/10/2009;166;Camisa;Negro;Polo Club
+29;6/03/2009;174;Camiseta;Rojo;Tennis
+121;13/03/2009;289;Interior;Azul;Levis
+134;25/08/2008;171;Camiseta;Amarillo;Polo Club
+132;6/12/2009;266;Accesorios;Verde;Tennis
+181;24/10/2009;105;Accesorios;Blanco;Levis
+24;12/09/2009;87;Camisa;Negro;Polo Club
+42;9/09/1980;137;Pantalon;Rojo;Tennis
+158;29/12/2008;124;Accesorios;Verde;Levis
+29;3/06/2009;95;Pantalon;Blanco;Polo Club
+173;4/01/2015;120;Accesorios;Negro;Gef
+63;13/04/2009;145;Camiseta;Rojo;Arturo Calle
+83;2/07/2008;105;Pantalon;Rojo;Tennis
+142;22/07/2009;131;Interior;Azul;Levis
+95;14/01/2009;255;Camiseta;Amarillo;Levis
+93;19/03/2009;150;Accesorios;Verde;Polo Club
+29;22/03/2009;79;Interior;Rojo;Gef
+125;1/06/2009;218;Accesorios;Verde;Arturo Calle
+127;12/05/2009;254;Camisa;Blanco;Gef
+81;20/08/2014;128;Camisa;Negro;Arturo Calle
+20;14/11/2009;166;Camisa;Rojo;Tennis
+63;26/02/2009;247;Interior;Rojo;Levis
+170;25/09/2008;59;Camisa;Azul;Polo Club
+174;3/03/2008;147;Camiseta;Azul;Tennis
+47;15/09/2009;323;Camiseta;Amarillo;Levis
+138;18/07/2008;53;Interior;Verde;Polo Club
+187;3/04/2009;75;Camisa;Rojo;Gef
+61;16/12/2009;146;Interior;Verde;Arturo Calle
+12;26/06/2008;45;Camisa;Blanco;Tennis
+27;1/02/1940;246;Camisa;Negro;Levis
+105;24/04/2009;147;Camiseta;Verde;Levis
+43;14/06/2009;256;Camisa;Blanco;Polo Club
+168;19/06/2008;66;Interior;Negro;Gef
+17;17/12/2008;101;Camiseta;Verde;Arturo Calle
+133;11/12/2008;140;Camisa;Blanco;Tennis
+96;31/03/2008;179;Camisa;Negro;Levis
+92;24/12/2008;137;Interior;Rojo;Polo Club
+53;15/12/2010;54;Camiseta;Rojo;Tennis
+132;4/06/2008;163;Pantalon;Azul;Levis
+144;11/08/2009;218;Camiseta;Azul;Polo Club
+8;15/11/2008;62;Pantalon;Amarillo;Gef
+68;17/12/2008;161;Camiseta;Verde;Arturo Calle
+109;21/06/2009;84;Camisa;Rojo;Tennis
+143;25/04/2008;107;Pantalon;Verde;Levis
+75;3/07/1990;295;Camiseta;Amarillo;Levis
+4;12/10/2010;322;Camisa;Verde;Polo Club
+22;4/02/2009;66;Interior;Rojo;Gef
+143;10/09/2009;164;Interior;Verde;Arturo Calle
+89;28/08/2009;229;Pantalon;Amarillo;Tennis
+61;;349;Interior;Rojo;Levis
+43;5/09/2009;287;Pantalon;Rojo;Polo Club
+166;1/01/2010;150;Camisa;Azul;Tennis
+88;26/07/2008;40;Pantalon;Azul;Levis
+199;16/04/2009;62;Camisa;Amarillo;Polo Club
+24;14/01/2009;55;Camisa;Verde;Gef
+180;17/06/2009;257;Camiseta;Rojo;Arturo Calle
+74;8/06/2009;207;Camisa;Verde;Tennis
+192;2/10/2009;150;Camiseta;Amarillo;Levis
+159;25/07/2009;77;Camiseta;Verde;Levis
+50;24/12/2008;177;Interior;Rojo;Polo Club
+89;5/07/2009;78;Interior;Verde;Gef
+22;12/11/2009;316;Interior;Verde;Arturo Calle
+28;12/08/2016;86;Camisa;Blanco;Tennis
+174;16/11/2007;84;Pantalon;Negro;Levis
+22;18/11/2009;205;Pantalon;Rojo;Levis
+28;12/02/2009;206;Accesorios;Azul;Polo Club
+96;17/10/2008;294;Pantalon;Amarillo;Arturo Calle
+13;3/12/2008;258;Camiseta;Verde;Tennis
+34;17/10/2009;115;Camiseta;Blanco;Levis
+147;27/06/2009;171;Interior;Negro;Polo Club
+153;4/07/2009;116;Camisa;Rojo;Tennis
+130;8/10/2009;217;Accesorios;Verde;Levis
+75;3/10/2008;154;Camiseta;Blanco;Polo Club
+73;24/09/2009;105;Pantalon;Negro;Tennis
+96;1/07/2013;183;Interior;Rojo;Levis
+79;30/04/2009;276;Interior;Rojo;Polo Club
+170;17/08/2009;341;Interior;Azul;Tennis
+93;13/02/2009;127;Pantalon;Amarillo;Levis
+29;15/05/2009;48;Pantalon;Verde;Polo Club
+135;6/07/2009;85;Interior;Rojo;Gef
+99;3/10/2009;222;Pantalon;Verde;Arturo Calle
+130;27/09/2009;157;Pantalon;Blanco;Tennis
+25;2/05/2009;327;Camiseta;Negro;Levis
+198;1/09/2009;289;Camiseta;Rojo;Levis
+121;12/08/2015;85;Camisa;Rojo;Polo Club
+113;3/07/2009;331;Camisa;Azul;Gef
+136;26/06/2009;321;Interior;Azul;Arturo Calle
+131;26/12/2007;269;Accesorios;Amarillo;Gef
+169;9/09/2009;192;Pantalon;Verde;Arturo Calle
+174;11/09/2009;200;Interior;Blanco;Tennis
+36;29/10/2008;118;Camisa;Negro;Levis
+153;20/05/2009;233;Pantalon;Rojo;Polo Club
+97;29/12/2008;63;Accesorios;Azul;Tennis
+111;17/05/2008;217;Accesorios;Amarillo;Levis
+181;2/12/2009;199;Camisa;Verde;Polo Club
+162;27/09/2009;71;Camiseta;Blanco;Gef
+139;9/12/2009;182;Interior;Negro;Arturo Calle
+118;5/04/2009;163;Camiseta;Rojo;Tennis
+168;15/05/2009;316;Interior;Verde;Levis
+57;2/12/2008;100;Camisa;Blanco;Levis
+75;17/09/2008;263;Camisa;Negro;Polo Club
+112;5/01/2009;282;Accesorios;Rojo;Gef
+166;5/04/2008;72;Interior;Rojo;Arturo Calle
+153;21/12/2009;148;Pantalon;Azul;Tennis
+27;9/06/2008;81;Camisa;Amarillo;Levis
+183;1/06/2009;89;Pantalon;Verde;Polo Club
+51;12/06/2009;288;Pantalon;Rojo;Tennis
+111;2/05/2009;279;Accesorios;Verde;Levis
+59;31/10/2009;116;Camiseta;Blanco;Polo Club
+9;21/10/2009;312;Camiseta;Negro;Gef
+77;29/03/2008;126;Camisa;Rojo;Arturo Calle
+125;13/08/2009;148;Interior;Rojo;Tennis
+161;30/12/2010;216;Pantalon;Azul;Levis
+164;6/01/2009;307;Accesorios;Azul;Levis
+54;6/02/2010;49;Camiseta;Amarillo;Polo Club
+164;14/10/2009;91;Camisa;Verde;Levis
+99;1/09/2014;32;Accesorios;Rojo;Polo Club
+68;22/08/2009;304;Interior;Verde;Gef
+60;15/07/2009;272;Accesorios;Blanco;Arturo Calle
+91;17/04/2012;120;Interior;Negro;Tennis
+72;10/09/2009;82;Camisa;Verde;Levis
+75;14/02/2014;125;Accesorios;Blanco;Levis
+145;30/09/2009;33;Camisa;Negro;Polo Club
+22;12/09/2009;73;Accesorios;Verde;Gef
+1;10/11/2009;110;Camisa;Blanco;Arturo Calle
+149;2/01/2009;268;Camiseta;Negro;Tennis
+15;20/01/2010;95;Pantalon;Rojo;Levis
+27;28/02/2010;348;Accesorios;Rojo;Polo Club
+92;29/05/2009;334;Accesorios;Azul;Tennis
+194;15/07/2010;220;Camisa;Azul;Levis
+6;11/01/2010;78;Camisa;Amarillo;Polo Club
+72;4/05/2008;219;Camiseta;Verde;Gef
+164;3/12/2009;317;Interior;Rojo;Arturo Calle
+181;18/06/2009;255;Interior;Verde;Tennis
+158;1/06/2009;39;Accesorios;Amarillo;Levis
+86;20/07/2009;218;Camiseta;Verde;Levis
+11;5/02/2009;209;Camiseta;Rojo;Polo Club
+176;2/09/2009;48;Interior;Verde;Gef
+184;3/01/2010;131;Interior;Azul;Arturo Calle
+57;5/06/2009;191;Interior;Amarillo;Tennis
+108;1/12/2009;131;Interior;Verde;Levis
+36;22/10/2009;202;Camiseta;Blanco;Polo Club
+50;8/04/2009;185;Accesorios;Negro;Tennis
+56;7/07/2008;164;Camisa;Rojo;Levis
+129;28/08/2009;48;Accesorios;Azul;Polo Club
+163;20/12/2015;37;Interior;Amarillo;Gef
+92;11/08/2009;82;Interior;Verde;Arturo Calle
+5;23/01/2010;181;Camiseta;Blanco;Tennis
+45;16/06/2009;202;Camisa;Negro;Levis
+189;21/12/2010;322;Pantalon;Rojo;Levis
+81;16/11/2009;243;Camisa;Verde;Polo Club
+28;15/07/2009;117;Accesorios;Blanco;Gef
+85;30/01/2009;116;Camisa;Negro;Arturo Calle
+109;19/07/2009;335;Accesorios;Rojo;Tennis
+159;8/02/2009;86;Interior;Rojo;Levis
+81;26/06/2009;283;Accesorios;Azul;Levis
+182;20/01/2009;295;Interior;Amarillo;Polo Club
+194;1/11/2009;230;Camisa;Verde;Arturo Calle
+71;8/06/2014;42;Interior;Rojo;Tennis
+185;7/01/2010;314;Camisa;Verde;Levis
+29;22/09/2010;240;Camisa;Blanco;Polo Club
+138;25/02/2009;81;Camisa;Negro;Tennis
+139;21/09/2009;157;Camisa;Rojo;Levis
+105;9/04/2009;326;Camiseta;Rojo;Polo Club
+180;4/05/2012;40;Pantalon;Azul;Tennis
+185;12/08/2008;153;Camiseta;Azul;Levis
+54;4/10/2008;188;Interior;Amarillo;Polo Club
+57;26/06/2009;320;Interior;Verde;Tennis
+107;8/08/2010;126;Accesorios;Rojo;Levis
+179;14/11/2009;278;Accesorios;Verde;Polo Club
+198;4/04/2009;115;Accesorios;Blanco;Gef
+192;24/08/2009;209;Pantalon;Negro;Arturo Calle
+36;27/07/2014;224;Camiseta;Verde;Tennis
+8;6/09/2009;33;Camiseta;Blanco;Levis
+140;30/12/2009;87;Interior;Negro;Levis
+147;2/09/2009;71;Pantalon;Verde;Polo Club
+174;13/03/2012;233;Pantalon;Blanco;Gef
+142;17/08/2014;244;Camiseta;Negro;Arturo Calle
+114;29/10/2009;96;Interior;Rojo;Gef
+93;23/11/2009;183;Camisa;Rojo;Levis
+137;15/12/2008;75;Accesorios;Azul;Polo Club
+176;1/10/2009;232;Accesorios;Azul;Tennis
+130;;273;Camisa;Amarillo;Levis
+46;;86;Camisa;Verde;Polo Club
+168;24/06/2010;240;Interior;Rojo;Gef
+200;2/06/2009;220;Camiseta;Verde;Arturo Calle
+85;13/02/2010;51;Camisa;Amarillo;Tennis
+53;7/06/2009;162;Camiseta;Verde;Levis
+79;22/12/2009;285;Accesorios;Rojo;Levis
+192;10/05/2009;149;Camisa;Verde;Polo Club
+187;3/01/2010;253;Accesorios;Amarillo;Gef
+26;22/04/2013;95;Accesorios;Rojo;Arturo Calle
+63;3/04/2008;307;Pantalon;Rojo;Tennis
+132;19/10/2009;257;Interior;Azul;Levis
+10;14/05/2008;83;Camiseta;Azul;Polo Club
+136;4/11/2008;121;Camiseta;Amarillo;Tennis
+187;22/02/2010;262;Camisa;Verde;Levis
+54;3/12/2009;96;Pantalon;Rojo;Polo Club
+139;1/12/2009;303;Accesorios;Verde;Gef
+195;25/12/2009;156;Accesorios;Amarillo;Arturo Calle
+87;28/07/2010;95;Accesorios;Verde;Tennis
+51;15/06/2009;144;Pantalon;Rojo;Levis
+195;19/05/2009;292;Accesorios;Verde;Levis
+86;28/03/2008;162;Camisa;Verde;Polo Club
+107;12/07/2009;208;Accesorios;Blanco;Gef
+77;24/07/2008;60;Interior;Negro;Arturo Calle
+11;10/07/2009;325;Accesorios;Rojo;Tennis
+195;5/05/2010;174;Accesorios;Azul;Levis
+162;24/05/2008;68;Camisa;Amarillo;Levis
+131;18/12/2009;167;Accesorios;Verde;Polo Club
+111;30/05/2013;129;Camisa;Blanco;Arturo Calle
+70;14/04/2009;278;Pantalon;Negro;Tennis
+113;30/09/2009;282;Camiseta;Rojo;Levis
+83;11/02/2010;341;Camisa;Verde;Polo Club
+57;28/05/2009;88;Camiseta;Blanco;Tennis
+115;6/03/2010;308;Pantalon;Negro;Levis
+147;10/10/2009;153;Camisa;Rojo;Polo Club
+28;10/08/2016;284;Interior;Rojo;Tennis
+118;4/12/2008;325;Accesorios;Azul;Levis
+50;1/03/2009;180;Camisa;Amarillo;Polo Club
+162;8/09/2008;34;Camiseta;Verde;Tennis
+157;4/02/2010;299;Camisa;Rojo;Levis
+59;19/03/2010;249;Camiseta;Verde;Polo Club
+74;3/05/2008;329;Interior;Blanco;Gef
+84;7/06/2009;321;Pantalon;Negro;Arturo Calle
+62;6/04/2008;67;Camiseta;Rojo;Tennis
+96;4/05/2008;293;Camisa;Rojo;Levis
+110;10/09/2009;282;Pantalon;Azul;Levis
+19;15/06/2009;304;Accesorios;Azul;Polo Club
+166;17/11/2009;215;Pantalon;Amarillo;Gef
+51;6/05/2009;155;Interior;Verde;Arturo Calle
+20;21/11/2008;171;Pantalon;Blanco;Gef
+150;9/03/2010;31;Camiseta;Negro;Arturo Calle
+82;25/03/2009;149;Interior;Rojo;Tennis
+149;16/03/2010;335;Camiseta;Azul;Levis
+38;9/03/2009;254;Pantalon;Amarillo;Polo Club
+60;15/07/2009;270;Camiseta;Verde;Tennis
+26;5/03/2010;309;Pantalon;Blanco;Levis
+167;21/07/2009;61;Camiseta;Negro;Polo Club
+183;31/01/2010;202;Interior;Rojo;Gef
+85;18/02/2014;33;Camisa;Verde;Arturo Calle
+73;28/01/2010;100;Camisa;Blanco;Tennis
+131;1/04/2010;310;Interior;Negro;Levis
+51;28/07/2009;31;Camiseta;Rojo;Levis
+191;18/03/2010;101;Interior;Rojo;Polo Club
+106;28/08/2009;299;Accesorios;Azul;Gef
+66;3/07/2009;196;Camisa;Amarillo;Arturo Calle
+103;26/12/2009;205;Pantalon;Verde;Tennis
+131;14/08/2009;197;Pantalon;Rojo;Levis
+157;16/01/2010;223;Accesorios;Verde;Polo Club
+188;12/06/2009;138;Interior;Blanco;Tennis
+73;10/03/2009;185;Pantalon;Negro;Levis
+169;26/01/2010;220;Camisa;Rojo;Polo Club
+52;8/09/2008;311;Interior;Rojo;Gef
+17;20/02/2010;348;Interior;Azul;Arturo Calle
+61;19/11/2009;166;Accesorios;Azul;Tennis
+42;30/11/2009;240;Camisa;Amarillo;Levis
+108;24/10/2009;60;Accesorios;Verde;Levis
+77;17/01/2010;342;Pantalon;Rojo;Polo Club
+54;20/12/2009;326;Camiseta;Verde;Gef
+166;4/01/2010;306;Interior;Blanco;Arturo Calle
+189;16/02/2009;227;Pantalon;Negro;Tennis
+32;30/07/2010;166;Interior;Verde;Levis
+13;5/09/2009;65;Pantalon;Blanco;Polo Club
+27;20/08/2009;194;Camisa;Negro;Tennis
+108;8/01/2010;200;Camisa;Verde;Levis
+19;1/01/2011;252;Interior;Blanco;Polo Club
+153;21/04/2010;73;Pantalon;Negro;Gef
+153;1/02/2010;215;Accesorios;Rojo;Arturo Calle
+105;2/09/2009;208;Accesorios;Rojo;Tennis
+50;12/01/2009;199;Accesorios;Azul;Levis
+129;26/04/2010;59;Accesorios;Azul;Levis
+143;26/07/2009;43;Pantalon;Amarillo;Polo Club
+153;5/07/2009;290;Camiseta;Verde;Gef
+77;26/02/2014;104;Accesorios;Rojo;Arturo Calle
+191;31/07/2009;38;Pantalon;Verde;Tennis
+53;13/02/2010;184;Accesorios;Amarillo;Levis
+82;31/12/2009;131;Interior;Verde;Levis
+108;17/04/2009;209;Camiseta;Rojo;Polo Club
+81;19/03/2010;109;Interior;Verde;Arturo Calle
+102;28/08/2008;165;Interior;Azul;Tennis
+130;23/12/2009;295;Pantalon;Amarillo;Levis
+39;15/02/2010;141;Interior;Verde;Polo Club
+49;17/12/2009;230;Accesorios;Blanco;Tennis
+111;24/09/2009;162;Interior;Negro;Levis
+96;31/05/2009;304;Camiseta;Rojo;Polo Club
+124;31/12/2009;158;Interior;Azul;Tennis
+17;10/05/2010;346;Interior;Amarillo;Levis
+63;18/07/2009;90;Pantalon;Verde;Polo Club
+143;23/12/2009;188;Pantalon;Blanco;Tennis
+144;25/11/2010;238;Camisa;Negro;Levis
+114;30/03/2010;86;Accesorios;Rojo;Polo Club
+116;17/05/2010;46;Camiseta;Verde;Gef
+172;1/08/2009;66;Interior;Blanco;Arturo Calle
+11;8/02/2010;97;Camiseta;Negro;Tennis
+158;;52;Interior;Rojo;Levis
+197;16/02/2009;48;Pantalon;Rojo;Levis
+126;24/02/2010;330;Camiseta;Azul;Polo Club
+65;23/12/2010;32;Accesorios;Amarillo;Gef
+108;15/09/2009;42;Camisa;Verde;Arturo Calle
+48;25/06/2009;104;Pantalon;Rojo;Gef
+22;16/01/2010;278;Interior;Verde;Arturo Calle
+137;17/11/2009;313;Pantalon;Blanco;Tennis
+145;28/05/2009;152;Pantalon;Negro;Levis
+110;20/12/2009;152;Camiseta;Rojo;Polo Club
+117;24/10/2009;92;Pantalon;Rojo;Tennis
+2;24/01/2010;287;Accesorios;Azul;Levis
+59;3/03/2010;273;Camiseta;Azul;Polo Club
+151;8/03/2009;338;Camisa;Amarillo;Gef
+17;22/12/2010;263;Accesorios;Verde;Arturo Calle
+45;21/02/2010;218;Accesorios;Rojo;Tennis
+186;16/12/2009;57;Camiseta;Verde;Levis
+120;9/06/2009;134;Camisa;Blanco;Levis
+131;15/01/2010;303;Accesorios;Negro;Polo Club
+63;29/03/2010;106;Interior;Verde;Gef
+106;11/07/2009;109;Camisa;Blanco;Arturo Calle
+102;13/01/2010;268;Camisa;Negro;Tennis
+163;26/09/2009;163;Pantalon;Verde;Levis
+125;7/11/2009;201;Camiseta;Blanco;Polo Club
+98;24/02/2010;300;Accesorios;Negro;Tennis
+149;30/10/2008;88;Accesorios;Rojo;Levis
+175;3/08/2009;350;Camiseta;Rojo;Polo Club
+157;28/08/2012;99;Pantalon;Azul;Gef
+171;5/02/2010;345;Accesorios;Azul;Arturo Calle
+8;;51;Pantalon;Amarillo;Tennis
+175;14/02/2010;110;Pantalon;Verde;Levis
+52;17/03/2010;253;Interior;Rojo;Levis
+187;22/12/2009;322;Interior;Verde;Polo Club
+199;12/09/2009;264;Camisa;Amarillo;Levis
+159;30/01/2010;345;Pantalon;Verde;Polo Club
+60;12/03/2010;52;Camiseta;Rojo;Gef
+179;28/10/2009;147;Camiseta;Verde;Arturo Calle
+2;15/05/2010;340;Camisa;Amarillo;Tennis
+57;5/10/2016;211;Interior;Rojo;Levis
+67;4/06/2010;119;Camiseta;Rojo;Levis
+25;2/02/2010;337;Interior;Azul;Polo Club
+105;23/12/2009;342;Accesorios;Azul;Gef
+119;18/03/2015;172;Interior;Amarillo;Arturo Calle
+101;24/04/2010;249;Interior;Verde;Tennis
+164;5/05/2010;204;Accesorios;Rojo;Levis
+136;27/07/2016;52;Pantalon;Verde;Polo Club
+190;28/11/2009;43;Interior;Amarillo;Tennis
+60;19/09/2009;256;Accesorios;Verde;Levis
+144;31/01/2010;185;Interior;Rojo;Polo Club
+125;19/03/2010;57;Camisa;Verde;Gef
+13;9/03/2010;342;Interior;Verde;Arturo Calle
+14;31/05/2010;228;Camisa;Blanco;Tennis
+110;13/03/2010;304;Camiseta;Negro;Levis
+172;8/05/2010;190;Accesorios;Rojo;Levis
+20;7/02/2009;109;Accesorios;Azul;Polo Club
+84;10/07/2009;121;Interior;Amarillo;Gef
+197;30/07/2009;333;Pantalon;Verde;Arturo Calle
+97;12/06/2009;217;Accesorios;Blanco;Tennis
+47;29/10/2009;171;Pantalon;Negro;Levis
+198;13/04/2010;324;Pantalon;Rojo;Polo Club
+111;5/10/2010;276;Accesorios;Verde;Tennis
+181;12/06/2010;340;Pantalon;Blanco;Levis
+159;4/01/2010;349;Accesorios;Negro;Polo Club
+26;24/04/2010;347;Camiseta;Rojo;Gef
+29;5/04/2010;217;Camisa;Rojo;Arturo Calle
+197;19/05/2010;274;Camiseta;Azul;Tennis
+103;22/12/2009;332;Interior;Amarillo;Levis
+42;3/06/2010;242;Pantalon;Verde;Levis
+56;11/02/2010;30;Camiseta;Rojo;Polo Club
+160;26/11/2009;38;Accesorios;Verde;Gef
+191;12/03/2009;289;Pantalon;Blanco;Arturo Calle
+153;7/02/2012;215;Accesorios;Negro;Tennis
+151;6/05/2009;326;Pantalon;Rojo;Levis
+37;22/06/2010;286;Pantalon;Rojo;Levis
+142;9/03/2010;47;Camisa;Azul;Polo Club
+3;4/03/2010;342;Interior;Azul;Arturo Calle
+164;15/06/2010;78;Pantalon;Amarillo;Tennis
+67;2/06/2010;175;Camisa;Verde;Levis
+25;7/12/2009;176;Camiseta;Blanco;Polo Club
+112;13/07/2010;312;Accesorios;Negro;Tennis
+198;27/05/2010;42;Camiseta;Rojo;Levis
+152;26/11/2009;324;Accesorios;Azul;Polo Club
+46;13/04/2010;226;Accesorios;Amarillo;Tennis
+179;10/08/2009;349;Camisa;Verde;Levis
+158;12/06/2010;45;Camisa;Blanco;Polo Club
+91;13/03/2010;232;Pantalon;Negro;Tennis
+147;14/06/2010;270;Pantalon;Rojo;Levis
+174;8/08/2009;60;Camisa;Verde;Polo Club
+187;11/10/2008;64;Interior;Blanco;Gef
+62;19/02/2010;268;Interior;Negro;Arturo Calle
+51;30/04/2009;174;Pantalon;Rojo;Tennis
+198;14/11/2009;319;Accesorios;Rojo;Levis
+25;21/04/2010;140;Camiseta;Azul;Levis
+191;21/09/2009;294;Pantalon;Amarillo;Polo Club
+84;10/07/2010;51;Interior;Verde;Gef
+180;10/07/2010;132;Accesorios;Rojo;Arturo Calle
+110;11/02/2009;236;Camisa;Verde;Gef
+139;29/05/2010;40;Pantalon;Blanco;Levis
+11;14/11/2008;198;Pantalon;Negro;Polo Club
+84;1/06/2010;42;Pantalon;Rojo;Tennis
+13;3/10/2010;43;Accesorios;Rojo;Levis
+157;20/09/2009;298;Interior;Azul;Polo Club
+111;21/07/2010;170;Camisa;Azul;Gef
+141;17/04/2009;137;Camiseta;Amarillo;Arturo Calle
+101;19/01/2011;74;Accesorios;Verde;Tennis
+6;10/07/2010;106;Camiseta;Rojo;Levis
+191;29/05/2010;105;Interior;Verde;Levis
+169;29/09/2009;343;Camiseta;Blanco;Polo Club
+22;24/05/2010;82;Interior;Negro;Levis
+149;19/02/2010;192;Pantalon;Verde;Polo Club
+78;14/12/2009;75;Camisa;Blanco;Tennis
+52;29/04/2010;172;Accesorios;Negro;Levis
+7;2/05/2010;182;Pantalon;Verde;Polo Club
+126;21/05/2010;145;Pantalon;Blanco;Gef
+108;20/06/2010;165;Camiseta;Negro;Arturo Calle
+91;14/04/2016;195;Camisa;Rojo;Tennis
+110;23/01/2009;251;Camisa;Rojo;Levis
+106;2/08/2010;69;Camisa;Azul;Levis
+80;21/04/2010;226;Interior;Azul;Polo Club
+72;6/08/2009;261;Camisa;Amarillo;Gef
+127;19/07/2010;166;Camisa;Verde;Arturo Calle
+8;22/07/2010;116;Camisa;Rojo;Tennis
+143;5/05/2009;311;Accesorios;Verde;Levis
+159;9/03/2010;120;Interior;Amarillo;Polo Club
+148;16/02/2010;324;Pantalon;Verde;Tennis
+184;11/12/2009;166;Accesorios;Rojo;Gef
+6;29/03/2010;98;Camiseta;Verde;Arturo Calle
+93;15/05/2010;264;Interior;Azul;Tennis
+110;27/03/2010;289;Accesorios;Amarillo;Levis
+63;19/03/2010;177;Interior;Verde;Polo Club
+127;28/11/2009;197;Interior;Blanco;Tennis
+100;8/07/2010;339;Accesorios;Negro;Levis
+92;23/10/2009;223;Camisa;Rojo;Polo Club
+75;24/02/2015;149;Camiseta;Azul;Gef
+197;26/11/2008;299;Pantalon;Amarillo;Arturo Calle
+168;22/04/2010;142;Pantalon;Verde;Tennis
+108;4/02/2010;86;Accesorios;Blanco;Levis
+167;22/11/2016;100;Accesorios;Negro;Levis
+108;22/11/2010;329;Camisa;Rojo;Polo Club
+131;4/11/2008;139;Camiseta;Verde;Gef
+87;14/01/2010;57;Pantalon;Blanco;Arturo Calle
+120;17/05/2010;56;Camiseta;Negro;Tennis
+121;7/06/2010;161;Accesorios;Rojo;Levis
+64;10/03/2010;109;Accesorios;Rojo;Levis
+127;28/01/2009;198;Pantalon;Azul;Polo Club
+107;26/07/2010;305;Interior;Amarillo;Arturo Calle
+154;4/10/2008;297;Camisa;Verde;Tennis
+49;;177;Interior;Rojo;Levis
+44;7/02/2011;36;Camiseta;Verde;Polo Club
+51;30/04/2010;226;Camiseta;Blanco;Tennis
+179;18/01/2010;194;Camisa;Negro;Levis
+58;8/06/2010;266;Accesorios;Rojo;Polo Club
+54;10/05/2010;243;Camisa;Rojo;Tennis
+107;1/01/2010;115;Interior;Azul;Levis
+173;25/09/2009;38;Pantalon;Azul;Polo Club
+104;25/08/2010;71;Interior;Amarillo;Tennis
+195;29/05/2010;332;Interior;Verde;Levis
+100;22/06/2010;151;Interior;Rojo;Polo Club
+164;25/11/2014;281;Interior;Verde;Gef
+42;23/07/2010;67;Accesorios;Blanco;Arturo Calle
+29;1/01/2011;188;Pantalon;Negro;Tennis
+129;4/12/2010;197;Camisa;Verde;Levis
+96;3/07/2010;345;Pantalon;Blanco;Levis
+127;11/09/2010;48;Camiseta;Negro;Polo Club
+63;17/03/2009;94;Interior;Verde;Gef
+128;2/07/2009;161;Camiseta;Blanco;Arturo Calle
+158;23/08/2010;105;Accesorios;Negro;Gef
+66;31/07/2009;197;Interior;Rojo;Arturo Calle
+75;23/12/2008;305;Accesorios;Rojo;Tennis
+121;19/07/2010;239;Camisa;Azul;Levis
+98;12/05/2010;121;Accesorios;Azul;Polo Club
+54;9/10/2009;318;Interior;Amarillo;Tennis
+12;11/08/2010;247;Camiseta;Verde;Levis
+131;5/07/2010;132;Pantalon;Rojo;Polo Club
+68;19/06/2010;295;Camiseta;Verde;Gef
+94;27/10/2008;275;Camisa;Amarillo;Arturo Calle
+31;2/03/2009;244;Accesorios;Verde;Tennis
+195;17/02/2010;152;Pantalon;Rojo;Levis
+181;16/07/2010;264;Camisa;Verde;Levis
+190;1/04/2009;115;Pantalon;Amarillo;Polo Club
+182;24/08/2009;181;Camisa;Rojo;Gef
+22;16/11/2009;262;Camisa;Rojo;Arturo Calle
+141;15/07/2010;90;Accesorios;Azul;Tennis
+70;24/02/2010;291;Interior;Azul;Levis
+53;11/02/2009;44;Camiseta;Amarillo;Polo Club
+136;28/08/2010;61;Pantalon;Verde;Tennis
+7;5/08/2009;149;Interior;Rojo;Levis
+20;8/04/2010;215;Pantalon;Verde;Polo Club
+50;16/12/2009;96;Camisa;Amarillo;Gef
+127;29/01/2010;215;Accesorios;Verde;Arturo Calle
+57;7/09/2010;285;Camiseta;Rojo;Tennis
+12;19/10/2009;348;Accesorios;Verde;Levis
+179;7/03/2016;282;Pantalon;Verde;Levis
+40;1/09/2009;183;Camiseta;Blanco;Polo Club
+86;20/08/2010;294;Interior;Negro;Gef
+48;1/09/2010;107;Accesorios;Rojo;Arturo Calle
+113;30/03/2010;266;Accesorios;Azul;Tennis
+63;24/06/2009;271;Camiseta;Amarillo;Levis
+184;12/01/2010;192;Pantalon;Verde;Polo Club
+177;1/01/2011;199;Accesorios;Blanco;Tennis
+161;19/06/2010;334;Interior;Negro;Levis
+197;5/07/2010;170;Camiseta;Rojo;Polo Club
+93;25/10/2010;263;Interior;Verde;Gef
+117;28/06/2010;332;Accesorios;Blanco;Arturo Calle
+191;5/11/2009;148;Accesorios;Negro;Tennis
+86;1/12/2010;53;Pantalon;Rojo;Levis
+50;30/09/2010;273;Accesorios;Rojo;Levis
+134;13/03/2010;109;Interior;Azul;Polo Club
+33;15/09/2010;140;Camiseta;Amarillo;Gef
+103;16/04/2010;331;Camisa;Verde;Arturo Calle
+144;11/01/2010;105;Camisa;Rojo;Tennis
+197;11/08/2010;77;Pantalon;Verde;Levis
+99;13/07/2009;279;Accesorios;Blanco;Levis
+110;13/07/2009;74;Accesorios;Negro;Polo Club
+25;4/02/2010;255;Accesorios;Rojo;Arturo Calle
+148;15/07/2010;177;Camisa;Rojo;Tennis
+174;15/10/2010;138;Camisa;Azul;Levis
+190;22/08/2009;287;Pantalon;Azul;Polo Club
+115;15/05/2009;204;Camiseta;Amarillo;Tennis
+124;27/07/2010;42;Pantalon;Verde;Levis
+114;9/10/2009;315;Pantalon;Blanco;Polo Club
+190;4/06/2010;246;Camisa;Negro;Tennis
+125;12/07/2010;118;Camisa;Rojo;Levis
+183;4/09/2010;167;Camisa;Azul;Polo Club
+68;15/07/2015;93;Camisa;Amarillo;Tennis
+79;11/09/2010;348;Interior;Verde;Levis
+107;30/03/2010;261;Interior;Blanco;Polo Club
+198;8/01/2010;176;Pantalon;Negro;Gef
+118;13/06/2009;217;Interior;Rojo;Arturo Calle
+94;9/06/2010;317;Camiseta;Verde;Tennis
+157;24/07/2010;253;Accesorios;Blanco;Levis
+152;22/08/2010;155;Pantalon;Negro;Levis
+36;14/03/2009;261;Camisa;Rojo;Polo Club
+113;6/09/2010;333;Pantalon;Rojo;Gef
+79;9/10/2010;134;Pantalon;Azul;Arturo Calle
+4;3/02/2010;222;Pantalon;Amarillo;Gef
+69;9/09/2009;156;Camiseta;Verde;Arturo Calle
+50;19/06/2010;251;Pantalon;Rojo;Tennis
+130;20/07/2010;278;Accesorios;Verde;Levis
+97;4/10/2010;83;Camisa;Blanco;Polo Club
+9;16/12/2009;123;Pantalon;Negro;Tennis
+77;20/10/2010;232;Camisa;Rojo;Levis
+7;6/04/2010;347;Pantalon;Rojo;Polo Club
+185;16/07/2009;210;Camisa;Azul;Gef
+114;12/08/2014;317;Accesorios;Azul;Arturo Calle
+159;11/08/2010;202;Accesorios;Amarillo;Tennis
+43;19/03/2010;86;Camisa;Verde;Levis
+139;26/04/2010;99;Interior;Rojo;Levis
+65;12/11/2009;150;Camiseta;Verde;Polo Club
+156;7/06/2010;145;Pantalon;Blanco;Gef
+111;15/01/2009;62;Accesorios;Negro;Arturo Calle
+154;13/05/2010;181;Camiseta;Verde;Tennis
+68;6/01/2009;146;Accesorios;Blanco;Levis
+111;5/11/2010;149;Camiseta;Negro;Polo Club
+128;5/09/2010;343;Pantalon;Verde;Tennis
+54;17/08/2009;123;Pantalon;Blanco;Levis
+119;30/04/2010;338;Interior;Negro;Polo Club
+71;26/02/2010;117;Camiseta;Rojo;Gef
+153;30/12/2009;83;Accesorios;Rojo;Arturo Calle
+26;29/06/2011;147;Camisa;Azul;Tennis
+182;10/02/2010;63;Accesorios;Azul;Levis
+185;19/08/2010;115;Pantalon;Amarillo;Levis
+38;14/10/2010;348;Camisa;Verde;Polo Club
+188;25/06/2010;334;Accesorios;Rojo;Levis
+82;3/01/2010;48;Camisa;Verde;Polo Club
+173;21/01/2009;319;Pantalon;Amarillo;Gef
+57;23/07/2010;265;Pantalon;Verde;Arturo Calle
+88;1/01/2011;341;Camisa;Rojo;Tennis
+173;9/01/2010;267;Accesorios;Verde;Levis
+73;2/09/2010;295;Accesorios;Azul;Levis
+112;5/03/2010;249;Camiseta;Amarillo;Polo Club
+60;7/04/2009;151;Camiseta;Verde;Gef
+39;12/07/2010;192;Pantalon;Blanco;Arturo Calle
+22;17/08/2010;249;Camiseta;Negro;Tennis
+10;26/11/2009;265;Camiseta;Rojo;Levis
+17;3/06/2010;168;Interior;Azul;Polo Club
+24;2/07/2010;76;Interior;Amarillo;Tennis
+151;1/10/2010;130;Camisa;Verde;Levis
+27;24/09/2010;190;Pantalon;Blanco;Polo Club
+88;20/06/2010;32;Camiseta;Negro;Gef
+83;16/10/2010;218;Accesorios;Rojo;Arturo Calle
+6;24/08/2009;101;Camiseta;Verde;Tennis
+1;15/03/2011;151;Camisa;Blanco;Levis
+82;13/11/2009;40;Accesorios;Negro;Levis
+34;16/01/2010;315;Accesorios;Rojo;Polo Club
+126;22/04/2010;105;Camisa;Rojo;Gef
+64;5/11/2010;301;Camisa;Azul;Arturo Calle
+34;3/11/2010;109;Camiseta;Amarillo;Tennis
+26;19/08/2010;194;Camisa;Verde;Levis
+68;29/08/2010;308;Camisa;Rojo;Polo Club
+158;1/01/2011;82;Camiseta;Verde;Tennis
+157;24/06/2010;217;Pantalon;Blanco;Levis
+86;27/07/2009;262;Pantalon;Negro;Polo Club
+73;11/09/2016;306;Pantalon;Rojo;Gef
+51;22/08/2010;138;Camiseta;Rojo;Arturo Calle
+45;8/02/2010;87;Interior;Azul;Tennis
+39;29/06/2010;159;Interior;Azul;Levis
+151;20/10/2010;74;Camisa;Amarillo;Levis
+82;7/05/2010;283;Camiseta;Verde;Polo Club
+167;25/05/2010;331;Interior;Rojo;Gef
+123;;285;Accesorios;Verde;Arturo Calle
+87;8/07/2010;273;Camiseta;Blanco;Tennis
+43;5/11/2010;331;Interior;Negro;Levis
+160;9/05/2010;107;Pantalon;Verde;Levis
+96;26/07/2009;99;Camisa;Blanco;Polo Club
+100;12/03/2009;136;Camisa;Negro;Arturo Calle
+80;3/10/2010;68;Pantalon;Verde;Tennis
+21;24/08/2010;273;Pantalon;Blanco;Levis
+196;21/09/2010;231;Camiseta;Negro;Polo Club
+19;30/09/2009;43;Pantalon;Rojo;Tennis
+37;29/09/2009;184;Accesorios;Rojo;Levis
+17;10/11/2010;131;Camiseta;Azul;Polo Club
+12;25/09/2010;260;Pantalon;Azul;Tennis
+30;14/01/2009;162;Accesorios;Amarillo;Levis
+106;14/07/2010;110;Accesorios;Verde;Polo Club
+16;3/06/2009;241;Pantalon;Rojo;Tennis
+137;5/02/2010;170;Pantalon;Verde;Levis
+44;19/03/2009;170;Pantalon;Amarillo;Polo Club
+73;27/06/2015;70;Accesorios;Verde;Gef
+132;2/12/2010;183;Interior;Rojo;Arturo Calle
+162;21/12/2015;275;Camiseta;Verde;Tennis
+53;16/03/2010;216;Pantalon;Amarillo;Levis
+38;24/03/2010;301;Pantalon;Rojo;Levis
+68;25/05/2015;309;Interior;Rojo;Polo Club
+71;2/11/2010;113;Pantalon;Azul;Gef
+90;28/12/2010;320;Camiseta;Azul;Arturo Calle
+115;18/12/2010;97;Camiseta;Amarillo;Gef
+18;20/10/2009;203;Interior;Verde;Levis
+184;12/09/2010;336;Interior;Rojo;Polo Club
+120;5/08/2010;172;Accesorios;Verde;Tennis
+166;11/04/2011;98;Pantalon;Amarillo;Levis
+145;23/04/2011;74;Pantalon;Verde;Polo Club
+200;23/09/2010;120;Camiseta;Rojo;Gef
+60;1/04/2010;187;Pantalon;Verde;Arturo Calle
+43;7/07/2010;278;Accesorios;Verde;Tennis
+20;4/11/2010;288;Camisa;Blanco;Levis
+129;31/07/2010;39;Accesorios;Negro;Levis
+12;15/08/2010;230;Camisa;Rojo;Polo Club
+4;3/01/2011;45;Interior;Azul;Gef
+130;1/04/2010;298;Camisa;Amarillo;Arturo Calle
+74;30/12/2010;60;Pantalon;Verde;Tennis
+57;2/08/2010;337;Accesorios;Blanco;Levis
+173;4/11/2010;345;Interior;Negro;Polo Club
+5;1/08/2009;335;Pantalon;Rojo;Tennis
+134;2/07/2010;92;Camiseta;Verde;Levis
+42;19/05/2010;81;Camisa;Blanco;Polo Club
+49;5/12/2009;183;Interior;Negro;Gef
+16;31/08/2010;136;Accesorios;Rojo;Arturo Calle
+165;7/04/2010;236;Accesorios;Rojo;Tennis
+126;4/05/2010;216;Camisa;Azul;Levis
+55;7/10/2009;298;Camisa;Amarillo;Levis
+174;21/08/2010;235;Interior;Verde;Polo Club
+76;25/12/2012;43;Camiseta;Rojo;Gef
+60;22/06/2010;35;Accesorios;Verde;Arturo Calle
+65;28/09/2010;170;Accesorios;Blanco;Tennis
+101;;171;Pantalon;Negro;Levis
+164;6/08/2010;198;Pantalon;Rojo;Levis
+99;2/11/2012;109;Camiseta;Rojo;Polo Club
+19;1/01/2012;94;Camisa;Azul;Arturo Calle
+84;28/04/2009;306;Pantalon;Azul;Tennis
+189;16/09/2010;71;Interior;Amarillo;Levis
+192;19/10/2009;272;Camisa;Verde;Polo Club
+1;16/12/2010;338;Accesorios;Blanco;Tennis
+26;9/10/2010;301;Camiseta;Negro;Levis
+105;15/10/2010;169;Pantalon;Rojo;Polo Club
+43;13/11/2010;245;Camisa;Azul;Tennis
+171;2/10/2010;195;Interior;Amarillo;Levis
+51;15/01/2011;253;Camisa;Verde;Polo Club
+4;2/08/2010;144;Accesorios;Blanco;Tennis
+116;10/01/2011;330;Pantalon;Negro;Levis
+76;14/07/2012;107;Pantalon;Rojo;Polo Club
+18;4/11/2010;216;Pantalon;Verde;Gef
+19;4/01/2010;111;Accesorios;Blanco;Arturo Calle
+23;23/10/2010;293;Camiseta;Negro;Tennis
+109;3/02/2011;224;Pantalon;Rojo;Levis
+175;4/09/2010;244;Pantalon;Rojo;Levis
+199;10/07/2010;71;Interior;Azul;Polo Club
+18;31/12/2010;263;Camisa;Amarillo;Gef
+186;1/12/2010;336;Pantalon;Verde;Arturo Calle
+153;26/04/2012;227;Camisa;Rojo;Gef
+193;4/10/2010;181;Interior;Verde;Arturo Calle
+174;22/02/2010;50;Pantalon;Blanco;Tennis
+185;27/08/2011;34;Interior;Negro;Levis
+114;22/02/2008;211;Pantalon;Rojo;Polo Club
+51;22/11/2010;131;Accesorios;Rojo;Tennis
+153;17/09/2010;169;Interior;Azul;Levis
+101;25/12/2010;314;Pantalon;Azul;Polo Club
+130;12/12/2010;138;Interior;Amarillo;Gef
+20;25/01/2011;146;Camisa;Verde;Arturo Calle
+171;22/05/2010;324;Interior;Rojo;Tennis
+16;2/12/2010;114;Accesorios;Verde;Levis
+147;1/10/2010;346;Interior;Blanco;Levis
+189;19/02/2010;184;Camisa;Negro;Polo Club
+119;11/10/2011;56;Interior;Verde;Gef
+86;20/09/2009;314;Camisa;Blanco;Arturo Calle
+135;16/09/2010;220;Interior;Negro;Tennis
+9;15/10/2010;343;Camisa;Verde;Levis
+179;23/05/2013;177;Camisa;Blanco;Polo Club
+20;7/06/2010;303;Camiseta;Negro;Tennis
+85;15/12/2010;261;Camiseta;Rojo;Levis
+40;5/07/2010;168;Accesorios;Rojo;Polo Club
+148;30/12/2011;261;Camisa;Azul;Gef
+63;28/12/2010;120;Camiseta;Azul;Arturo Calle
+174;28/12/2010;302;Interior;Amarillo;Tennis
+38;11/04/2015;84;Camisa;Verde;Levis
+68;14/09/2010;341;Pantalon;Rojo;Levis
+89;1/01/2012;37;Camisa;Verde;Polo Club
+185;21/01/2011;97;Camisa;Amarillo;Gef
+127;20/10/2010;313;Camisa;Verde;Arturo Calle
+176;6/02/2010;188;Camiseta;Rojo;Tennis
+153;17/08/2010;278;Pantalon;Verde;Levis
+169;25/07/2010;115;Interior;Azul;Polo Club
+43;24/09/2010;132;Camisa;Amarillo;Tennis
+118;15/02/2011;202;Accesorios;Verde;Levis
+192;23/11/2009;31;Interior;Blanco;Polo Club
+184;22/08/2011;274;Pantalon;Negro;Gef
+168;22/03/2010;73;Camisa;Rojo;Arturo Calle
+51;30/11/2010;94;Interior;Azul;Tennis
+119;2/02/2011;91;Camiseta;Amarillo;Levis
+76;3/02/2011;173;Accesorios;Verde;Levis
+151;18/01/2011;111;Camisa;Blanco;Polo Club
+126;4/02/2011;350;Camiseta;Negro;Gef
+191;25/08/2010;337;Camisa;Rojo;Arturo Calle
+18;14/08/2009;86;Interior;Verde;Tennis
+22;30/04/2010;110;Camiseta;Blanco;Levis
+172;16/01/2011;190;Camisa;Negro;Levis
+6;6/01/2011;346;Camisa;Rojo;Polo Club
+177;16/01/2011;284;Camiseta;Rojo;Arturo Calle
+10;1/09/2010;195;Accesorios;Azul;Tennis
+56;20/09/2010;328;Accesorios;Amarillo;Levis
+88;19/05/2010;141;Camisa;Verde;Polo Club
+45;15/10/2010;305;Pantalon;Rojo;Tennis
+86;6/01/2010;312;Pantalon;Verde;Levis
+183;1/03/2011;221;Pantalon;Blanco;Polo Club
+196;17/02/2011;102;Pantalon;Negro;Tennis
+150;25/03/2009;100;Pantalon;Rojo;Levis
+177;1/11/2010;251;Accesorios;Rojo;Polo Club
+18;17/09/2010;114;Camiseta;Azul;Tennis
+20;11/10/2010;193;Camisa;Azul;Levis
+162;12/01/2011;56;Pantalon;Amarillo;Polo Club
+132;25/08/2011;300;Camiseta;Verde;Gef
+87;13/06/2010;154;Pantalon;Rojo;Arturo Calle
+132;9/05/2010;85;Camiseta;Verde;Tennis
+59;6/09/2011;148;Accesorios;Blanco;Levis
+25;4/02/2011;111;Camiseta;Negro;Levis
+45;4/01/2011;142;Camiseta;Verde;Polo Club
+156;17/11/2011;78;Camiseta;Blanco;Gef
+58;28/02/2011;186;Camisa;Negro;Arturo Calle
+25;4/01/2011;323;Accesorios;Verde;Gef
+147;21/08/2010;32;Accesorios;Blanco;Arturo Calle
+188;5/03/2011;101;Camiseta;Negro;Tennis
+199;5/12/2010;341;Camiseta;Rojo;Levis
+49;1/07/2010;188;Camiseta;Rojo;Polo Club
+16;2/02/2011;214;Camisa;Azul;Tennis
+66;18/10/2011;276;Interior;Azul;Levis
+152;29/12/2010;255;Camiseta;Amarillo;Polo Club
+42;4/06/2011;248;Camisa;Verde;Gef
+32;7/11/2009;303;Accesorios;Rojo;Arturo Calle
+173;24/09/2009;171;Pantalon;Verde;Tennis
+58;3/02/2010;289;Camisa;Amarillo;Levis
+128;2/05/2010;217;Camiseta;Verde;Levis
+101;29/11/2011;262;Pantalon;Rojo;Polo Club
+83;12/11/2010;249;Camiseta;Verde;Gef
+200;18/03/2011;171;Camisa;Amarillo;Arturo Calle
+51;14/01/2011;215;Pantalon;Rojo;Tennis
+83;30/03/2011;155;Accesorios;Rojo;Levis
+64;5/02/2011;328;Interior;Azul;Polo Club
+136;3/09/2011;157;Camisa;Azul;Tennis
+27;19/07/2010;232;Accesorios;Amarillo;Levis
+190;22/10/2010;174;Camiseta;Verde;Polo Club
+177;3/02/2011;149;Accesorios;Rojo;Gef
+102;1/04/2011;190;Accesorios;Verde;Arturo Calle
+7;20/12/2010;307;Camisa;Amarillo;Tennis
+86;19/02/2011;118;Pantalon;Verde;Levis
+43;9/10/2010;152;Pantalon;Rojo;Levis
+180;12/03/2011;134;Interior;Verde;Polo Club
+105;14/02/2011;296;Camiseta;Verde;Levis
+12;4/07/2011;282;Pantalon;Blanco;Polo Club
+148;16/08/2010;75;Accesorios;Negro;Gef
+188;21/02/2011;41;Camiseta;Rojo;Arturo Calle
+84;16/09/2010;281;Camiseta;Azul;Tennis
+194;1/10/2010;53;Pantalon;Amarillo;Levis
+70;25/08/2010;59;Pantalon;Verde;Levis
+162;22/08/2010;181;Accesorios;Blanco;Polo Club
+173;16/04/2011;107;Pantalon;Negro;Gef
+83;5/02/2011;161;Interior;Rojo;Arturo Calle
+5;1/01/2012;283;Camiseta;Verde;Tennis
+33;20/05/2011;234;Accesorios;Blanco;Levis
+104;27/03/2011;103;Camisa;Negro;Polo Club
+60;27/03/2011;201;Pantalon;Rojo;Tennis
+10;30/03/2011;234;Accesorios;Rojo;Levis
+53;23/01/2011;35;Accesorios;Azul;Polo Club
+87;15/04/2010;109;Camiseta;Amarillo;Gef
+81;16/02/2010;227;Accesorios;Verde;Arturo Calle
+18;12/04/2011;194;Interior;Rojo;Tennis
+120;8/10/2010;60;Pantalon;Verde;Levis
+3;24/02/2010;126;Pantalon;Blanco;Levis
+166;5/03/2011;180;Camiseta;Negro;Polo Club
+198;23/07/2011;85;Pantalon;Rojo;Gef
+137;5/02/2012;99;Pantalon;Rojo;Arturo Calle
+124;3/03/2011;90;Interior;Azul;Tennis
+72;15/07/2014;292;Interior;Negro;Levis
+14;13/09/2012;175;Pantalon;Verde;Polo Club
+142;6/11/2010;327;Accesorios;Blanco;Tennis
+87;5/04/2011;263;Camisa;Negro;Levis
+99;29/07/2010;131;Interior;Verde;Polo Club
+70;8/06/2011;174;Accesorios;Blanco;Gef
+39;27/12/2010;286;Pantalon;Negro;Arturo Calle
+114;13/02/2011;345;Interior;Rojo;Tennis
+101;25/01/2011;176;Pantalon;Rojo;Levis
+58;5/05/2011;137;Camiseta;Azul;Levis
+140;21/11/2010;304;Camiseta;Azul;Polo Club
+74;28/03/2011;323;Accesorios;Amarillo;Gef
+181;16/05/2010;336;Camisa;Verde;Arturo Calle
+110;2/10/2009;108;Camiseta;Rojo;Tennis
+159;27/09/2011;239;Pantalon;Verde;Levis
+97;1/09/2010;202;Interior;Amarillo;Levis
+52;1/07/2011;32;Accesorios;Verde;Polo Club
+139;5/11/2009;212;Accesorios;Rojo;Arturo Calle
+80;4/10/2010;161;Interior;Verde;Tennis
+156;24/11/2010;288;Interior;Azul;Levis
+10;14/01/2011;148;Pantalon;Amarillo;Polo Club
+4;17/04/2010;267;Interior;Verde;Tennis
+31;3/02/2011;292;Camiseta;Blanco;Levis
+135;5/09/2011;290;Interior;Negro;Polo Club
+110;22/04/2010;312;Interior;Rojo;Tennis
+112;4/05/2010;329;Pantalon;Azul;Levis
+145;9/10/2010;270;Pantalon;Amarillo;Polo Club
+90;14/03/2011;268;Pantalon;Verde;Tennis
+113;29/05/2011;62;Pantalon;Blanco;Levis
+116;10/11/2010;145;Accesorios;Negro;Polo Club
+62;3/03/2011;89;Camiseta;Rojo;Gef
+60;24/05/2011;188;Pantalon;Verde;Arturo Calle
+87;14/01/2010;80;Camisa;Blanco;Tennis
+20;10/03/2011;210;Accesorios;Negro;Levis
+90;9/10/2010;225;Camisa;Rojo;Levis
+179;15/05/2011;176;Camisa;Rojo;Polo Club
+67;9/04/2011;257;Accesorios;Azul;Gef
+148;1/01/2012;224;Camiseta;Amarillo;Arturo Calle
+58;9/12/2009;293;Interior;Verde;Gef
+37;11/03/2011;240;Camiseta;Rojo;Levis
+157;31/05/2016;77;Accesorios;Verde;Polo Club
+91;20/07/2010;125;Accesorios;Blanco;Tennis
+19;9/03/2011;319;Interior;Negro;Levis
+31;3/12/2010;240;Camisa;Rojo;Polo Club
+19;20/05/2011;274;Pantalon;Rojo;Gef
+32;16/04/2011;273;Camisa;Azul;Arturo Calle
+62;24/03/2011;254;Accesorios;Azul;Tennis
+180;20/12/2010;104;Camisa;Amarillo;Levis
+109;27/08/2011;137;Pantalon;Verde;Levis
+119;2/05/2011;211;Camiseta;Rojo;Polo Club
+123;28/11/2012;89;Interior;Verde;Gef
+183;17/10/2010;87;Camiseta;Blanco;Arturo Calle
+15;30/11/2011;137;Camisa;Negro;Tennis
+39;17/05/2011;226;Interior;Verde;Levis
+105;26/03/2010;268;Accesorios;Blanco;Polo Club
+10;10/02/2010;191;Interior;Negro;Tennis
+140;19/08/2011;259;Pantalon;Verde;Levis
+142;2/06/2011;284;Camiseta;Blanco;Polo Club
+134;22/09/2010;264;Pantalon;Negro;Gef
+197;14/04/2011;276;Camisa;Rojo;Arturo Calle
+197;13/11/2011;150;Interior;Rojo;Tennis
+130;25/02/2011;347;Accesorios;Azul;Levis
+38;1/01/2011;292;Pantalon;Azul;Levis
+58;2/04/2011;49;Pantalon;Amarillo;Polo Club
+142;23/12/2010;295;Pantalon;Verde;Gef
+155;22/12/2010;106;Camiseta;Rojo;Arturo Calle
+4;23/08/2010;103;Pantalon;Verde;Tennis
+15;24/08/2010;290;Pantalon;Amarillo;Levis
+156;17/12/2010;271;Pantalon;Verde;Levis
+96;26/09/2010;230;Camisa;Rojo;Polo Club
+24;9/01/2010;112;Interior;Verde;Arturo Calle
+17;27/08/2010;175;Camiseta;Amarillo;Tennis
+77;16/03/2010;260;Camisa;Rojo;Levis
+55;7/04/2010;152;Pantalon;Rojo;Polo Club
+26;27/03/2011;187;Camiseta;Azul;Tennis
+161;29/10/2010;271;Accesorios;Azul;Levis
+180;21/06/2011;240;Accesorios;Amarillo;Polo Club
+93;2/05/2011;98;Camisa;Verde;Tennis
+72;28/02/2010;235;Camisa;Rojo;Levis
+45;15/07/2011;236;Camiseta;Verde;Polo Club
+10;23/02/2011;173;Camisa;Amarillo;Tennis
+30;12/07/2010;42;Camiseta;Verde;Levis
+186;13/04/2011;350;Interior;Rojo;Polo Club
+8;31/01/2011;58;Camisa;Verde;Gef
+90;16/06/2010;336;Camisa;Verde;Arturo Calle
+54;25/03/2011;269;Interior;Blanco;Tennis
+83;1/01/2012;239;Pantalon;Negro;Levis
+88;4/07/2011;271;Interior;Rojo;Levis
+169;1/05/2011;155;Camisa;Azul;Polo Club
+115;25/05/2013;84;Interior;Amarillo;Gef
+85;18/03/2011;268;Camisa;Verde;Arturo Calle
+42;6/10/2010;115;Pantalon;Blanco;Gef
+20;28/03/2011;53;Camiseta;Negro;Arturo Calle
+148;18/02/2011;348;Pantalon;Rojo;Tennis
+178;20/06/2011;87;Accesorios;Verde;Levis
+121;25/06/2011;210;Accesorios;Blanco;Polo Club
+157;4/02/2011;232;Pantalon;Negro;Tennis
+19;4/08/2011;239;Camiseta;Rojo;Levis
+177;7/06/2011;350;Interior;Rojo;Polo Club
+131;3/05/2011;48;Interior;Azul;Gef
+185;21/02/2011;318;Interior;Amarillo;Arturo Calle
+174;16/09/2011;336;Interior;Verde;Tennis
+44;27/09/2010;227;Interior;Rojo;Levis
+124;15/09/2010;345;Accesorios;Verde;Levis
+82;;212;Accesorios;Blanco;Polo Club
+106;9/03/2011;338;Camisa;Negro;Gef
+6;5/12/2010;269;Accesorios;Rojo;Arturo Calle
+20;14/01/2010;32;Interior;Rojo;Tennis
+27;3/06/2011;116;Interior;Azul;Levis
+34;24/01/2011;110;Accesorios;Azul;Polo Club
+183;22/05/2010;174;Accesorios;Amarillo;Tennis
+100;4/05/2010;219;Accesorios;Verde;Levis
+18;17/06/2011;75;Accesorios;Blanco;Polo Club
+50;3/10/2010;111;Camisa;Negro;Gef
+6;20/06/2011;84;Interior;Rojo;Arturo Calle
+36;29/03/2011;166;Accesorios;Azul;Tennis
+143;7/07/2011;79;Interior;Amarillo;Levis
+56;30/09/2011;268;Interior;Verde;Levis
+54;1/12/2009;116;Camiseta;Blanco;Polo Club
+93;2/04/2011;158;Camisa;Negro;Gef
+110;22/03/2011;136;Camiseta;Rojo;Arturo Calle
+167;12/06/2012;93;Camisa;Verde;Tennis
+80;8/09/2010;66;Interior;Blanco;Levis
+111;1/01/2010;57;Interior;Negro;Polo Club
+185;6/06/2011;203;Camisa;Rojo;Tennis
+10;17/03/2010;323;Camiseta;Rojo;Levis
+104;29/04/2011;118;Pantalon;Azul;Polo Club
+3;20/03/2010;349;Camiseta;Amarillo;Gef
+192;13/01/2009;137;Camisa;Verde;Arturo Calle
+199;25/03/2009;57;Camisa;Rojo;Tennis
+195;16/04/2009;45;Accesorios;Verde;Levis
+184;3/08/2008;68;Camisa;Blanco;Levis
+70;6/04/2009;300;Accesorios;Negro;Polo Club
+3;19/04/2008;342;Accesorios;Rojo;Gef
+42;6/05/2009;110;Pantalon;Rojo;Arturo Calle
+15;11/06/2009;199;Interior;Azul;Tennis
+139;12/08/2008;122;Camisa;Azul;Levis
+37;15/11/2008;107;Pantalon;Amarillo;Levis
+183;1/01/2009;329;Camiseta;Verde;Polo Club
+107;26/12/2008;105;Camisa;Rojo;Arturo Calle
+179;14/02/2009;288;Pantalon;Verde;Tennis
+8;19/10/2007;254;Accesorios;Blanco;Levis
+177;16/02/2009;89;Pantalon;Negro;Polo Club
+192;26/06/2009;177;Camisa;Verde;Tennis
+19;8/06/2009;179;Pantalon;Blanco;Levis
+112;5/12/2008;340;Pantalon;Negro;Polo Club
+30;29/05/2008;260;Interior;Verde;Tennis
+183;2/01/2009;220;Accesorios;Blanco;Levis
+14;11/04/2009;157;Pantalon;Negro;Polo Club
+91;21/04/2009;56;Camiseta;Rojo;Tennis
+119;12/06/2008;291;Pantalon;Rojo;Levis
+112;12/01/2009;124;Pantalon;Azul;Polo Club
+120;5/09/2010;297;Accesorios;Azul;Gef
+114;9/10/2009;304;Accesorios;Amarillo;Arturo Calle
+45;3/02/2010;43;Accesorios;Verde;Tennis
+145;6/03/2008;120;Interior;Rojo;Levis
+33;24/10/2009;79;Camisa;Verde;Levis
+160;17/05/2009;311;Camisa;Amarillo;Polo Club
+54;30/05/2013;173;Accesorios;Verde;Gef
+100;27/03/2013;275;Accesorios;Rojo;Arturo Calle
+79;2/07/2009;341;Camiseta;Verde;Gef
+130;14/09/2009;228;Interior;Azul;Arturo Calle
+89;20/09/2009;174;Interior;Amarillo;Tennis
+182;24/06/2008;235;Camisa;Verde;Levis
+18;15/12/2008;267;Interior;Blanco;Polo Club
+76;21/08/2009;267;Camiseta;Negro;Tennis
+32;15/06/2009;91;Camisa;Rojo;Levis
+170;27/06/2009;57;Accesorios;Azul;Polo Club
+77;6/10/2008;71;Camiseta;Amarillo;Gef
+125;26/01/2008;284;Interior;Verde;Arturo Calle
+147;13/05/2009;90;Pantalon;Blanco;Tennis
+40;24/02/2014;79;Camisa;Negro;Levis
+168;21/07/2009;63;Camiseta;Rojo;Levis
+62;20/08/2009;181;Camiseta;Verde;Polo Club
+19;30/11/2008;79;Camisa;Blanco;Gef
+47;6/08/2009;49;Camiseta;Negro;Arturo Calle
+196;15/01/2010;307;Pantalon;Rojo;Tennis
+113;7/09/2009;74;Interior;Rojo;Levis
+155;2/12/2009;171;Accesorios;Azul;Polo Club
+197;1/01/2009;36;Interior;Amarillo;Tennis
+58;3/03/2009;251;Pantalon;Verde;Levis
+27;12/12/2009;112;Camiseta;Rojo;Polo Club
+193;6/12/2008;59;Camiseta;Verde;Gef
+50;12/01/2010;30;Camiseta;Blanco;Arturo Calle
+127;1/12/2009;246;Accesorios;Negro;Tennis
+132;23/10/2009;160;Interior;Rojo;Levis
+31;29/12/2009;306;Camiseta;Rojo;Levis
+44;4/01/2010;69;Accesorios;Azul;Polo Club
+136;8/06/2008;185;Accesorios;Azul;Levis
+162;26/02/2010;350;Camisa;Amarillo;Polo Club
+34;1/12/2008;153;Pantalon;Verde;Gef
+76;16/03/2009;349;Interior;Rojo;Arturo Calle
+45;20/02/2010;46;Interior;Verde;Tennis
+6;13/04/2010;192;Camiseta;Blanco;Levis
+56;18/02/2010;182;Camisa;Negro;Levis
+2;12/11/2008;338;Interior;Verde;Polo Club
+91;12/01/2009;144;Accesorios;Blanco;Gef
+49;15/04/2009;187;Accesorios;Negro;Arturo Calle
+153;1/04/2010;142;Camiseta;Verde;Tennis
+78;3/10/2009;199;Pantalon;Blanco;Levis
+166;26/12/2009;312;Camisa;Negro;Polo Club
+156;11/03/2010;103;Accesorios;Rojo;Tennis
+157;18/11/2009;164;Pantalon;Rojo;Levis
+41;30/09/2009;169;Camisa;Azul;Polo Club
+16;3/05/2010;59;Accesorios;Azul;Gef
+141;20/03/2010;201;Interior;Amarillo;Arturo Calle
+200;7/04/2010;334;Accesorios;Verde;Tennis
+69;16/04/2010;143;Accesorios;Rojo;Levis
+195;10/07/2010;227;Camisa;Verde;Levis
+94;14/04/2010;199;Accesorios;Amarillo;Polo Club
+68;29/10/2009;208;Camisa;Verde;Gef
+120;20/07/2010;180;Interior;Rojo;Arturo Calle
+34;20/12/2009;57;Camisa;Verde;Tennis
+120;17/03/2010;244;Accesorios;Amarillo;Levis
+71;17/05/2010;219;Pantalon;Rojo;Polo Club
+21;13/01/2009;115;Camisa;Rojo;Tennis
+59;25/03/2009;192;Camisa;Azul;Levis
+82;16/04/2009;256;Camisa;Azul;Polo Club
+52;3/08/2008;100;Camiseta;Amarillo;Gef
+53;6/04/2009;62;Accesorios;Verde;Arturo Calle
+81;19/04/2008;229;Accesorios;Rojo;Tennis
+159;6/05/2009;237;Interior;Verde;Levis
+173;11/06/2009;337;Camisa;Amarillo;Levis
+56;12/08/2008;248;Camiseta;Verde;Polo Club
+120;15/11/2008;239;Interior;Rojo;Gef
+126;1/01/2009;173;Accesorios;Verde;Arturo Calle
+119;26/12/2008;30;Pantalon;Verde;Tennis
+76;14/02/2009;59;Camiseta;Blanco;Levis
+80;19/10/2007;129;Interior;Negro;Levis
+129;16/02/2009;164;Accesorios;Rojo;Polo Club
+136;26/06/2009;51;Interior;Azul;Arturo Calle
+34;8/06/2009;253;Camisa;Amarillo;Tennis
+13;5/12/2008;285;Pantalon;Verde;Levis
+30;29/05/2008;333;Pantalon;Blanco;Polo Club
+140;2/01/2009;62;Pantalon;Negro;Tennis
+178;11/04/2009;345;Accesorios;Rojo;Levis
+130;21/04/2009;166;Camisa;Verde;Polo Club
+91;12/06/2008;38;Camiseta;Blanco;Tennis
+160;12/01/2009;179;Interior;Negro;Levis
+35;5/09/2010;282;Pantalon;Rojo;Polo Club
+6;9/10/2009;272;Pantalon;Rojo;Tennis
+146;3/02/2010;242;Pantalon;Azul;Levis
+13;6/03/2008;114;Camisa;Amarillo;Polo Club
+27;24/10/2009;221;Camisa;Verde;Gef
+2;17/05/2009;344;Accesorios;Rojo;Arturo Calle
+16;30/05/2013;298;Camisa;Verde;Tennis
+167;27/03/2013;43;Camisa;Blanco;Levis
+33;2/07/2009;144;Camiseta;Negro;Levis
+68;14/09/2009;164;Camiseta;Rojo;Polo Club
+77;20/09/2009;151;Pantalon;Rojo;Gef
+185;24/06/2008;105;Accesorios;Azul;Arturo Calle
+183;15/12/2008;94;Pantalon;Azul;Gef
+119;21/08/2009;333;Camiseta;Amarillo;Levis
+199;15/06/2009;186;Accesorios;Verde;Polo Club
+97;27/06/2009;176;Camisa;Blanco;Tennis
+34;6/10/2008;43;Camiseta;Negro;Levis
+13;26/01/2008;165;Accesorios;Rojo;Polo Club
+11;13/05/2009;268;Interior;Azul;Gef
+73;24/02/2014;246;Camisa;Amarillo;Arturo Calle
+186;21/07/2009;89;Camiseta;Verde;Tennis
+155;20/08/2009;225;Pantalon;Blanco;Levis
+78;30/11/2008;267;Camiseta;Negro;Levis
+137;6/08/2009;289;Camisa;Rojo;Polo Club
+137;15/01/2010;186;Camisa;Verde;Gef
+103;7/09/2009;201;Pantalon;Blanco;Arturo Calle
+169;2/12/2009;33;Camisa;Negro;Tennis
+34;1/01/2009;178;Pantalon;Rojo;Levis
+144;3/03/2009;326;Interior;Rojo;Polo Club
+123;12/12/2009;238;Interior;Azul;Tennis
+99;6/12/2008;213;Pantalon;Amarillo;Levis
+37;12/01/2010;289;Pantalon;Verde;Polo Club
+37;1/12/2009;152;Accesorios;Rojo;Gef
+175;23/10/2009;47;Pantalon;Verde;Arturo Calle
+6;29/12/2009;320;Camiseta;Blanco;Tennis
+182;4/01/2010;101;Camisa;Negro;Levis
+60;8/06/2008;150;Camisa;Rojo;Levis
+134;26/02/2010;150;Camisa;Rojo;Polo Club
+88;1/12/2008;132;Camiseta;Azul;Gef
+168;16/03/2009;53;Interior;Azul;Arturo Calle
+84;20/02/2010;328;Camisa;Amarillo;Tennis
+164;13/04/2010;185;Interior;Verde;Levis
+105;18/02/2010;233;Interior;Rojo;Levis
+144;12/11/2008;222;Interior;Verde;Polo Club
+1;12/01/2009;66;Camisa;Blanco;Arturo Calle
+70;15/04/2009;181;Camiseta;Negro;Tennis
+140;1/04/2010;129;Camiseta;Verde;Levis
+182;3/10/2009;199;Accesorios;Blanco;Polo Club
+76;26/12/2009;173;Interior;Negro;Tennis
+191;11/03/2010;239;Interior;Verde;Levis
+144;18/11/2009;276;Camiseta;Blanco;Polo Club
+141;30/09/2009;136;Camisa;Negro;Tennis
+77;3/05/2010;340;Pantalon;Rojo;Levis
+33;20/03/2010;338;Accesorios;Rojo;Polo Club
+68;7/04/2010;169;Pantalon;Azul;Tennis
+183;16/04/2010;311;Camisa;Azul;Levis
+163;10/07/2010;103;Camiseta;Amarillo;Polo Club
+21;14/04/2010;348;Accesorios;Verde;Gef
+73;29/10/2009;258;Interior;Rojo;Arturo Calle
+53;20/07/2010;193;Interior;Verde;Tennis
+37;20/12/2009;293;Camiseta;Amarillo;Levis
+100;17/03/2010;231;Camisa;Verde;Levis
+24;17/05/2010;317;Accesorios;Rojo;Polo Club
+161;13/01/2009;179;Camiseta;Verde;Gef
+24;25/03/2009;221;Interior;Azul;Arturo Calle
+170;16/04/2009;169;Camisa;Amarillo;Gef
+200;3/08/2008;202;Camisa;Verde;Arturo Calle
+196;6/04/2009;317;Accesorios;Blanco;Tennis
+176;19/04/2008;311;Camiseta;Negro;Levis
+107;6/05/2009;206;Interior;Rojo;Polo Club
+126;11/06/2009;104;Camiseta;Azul;Tennis
+179;12/08/2008;108;Camiseta;Amarillo;Levis
+87;15/11/2008;327;Pantalon;Verde;Polo Club
+166;1/01/2009;296;Camisa;Blanco;Gef
+153;26/12/2008;260;Pantalon;Negro;Arturo Calle
+68;14/02/2009;186;Camiseta;Rojo;Tennis
+12;19/10/2007;329;Accesorios;Verde;Levis
+104;16/02/2009;254;Camisa;Blanco;Levis
+95;26/06/2009;331;Pantalon;Negro;Polo Club
+23;8/06/2009;310;Pantalon;Rojo;Gef
+93;5/12/2008;88;Accesorios;Rojo;Arturo Calle
+34;29/05/2008;193;Pantalon;Azul;Tennis
+113;2/01/2009;92;Camisa;Amarillo;Levis
+168;11/04/2009;99;Camisa;Verde;Polo Club
+156;21/04/2009;89;Interior;Rojo;Tennis
+80;12/06/2008;179;Pantalon;Verde;Levis
+192;12/01/2009;145;Camiseta;Blanco;Polo Club
+196;5/09/2010;275;Accesorios;Negro;Gef
+132;9/10/2009;256;Camisa;Rojo;Arturo Calle
+60;3/02/2010;272;Interior;Rojo;Tennis
+193;6/03/2008;259;Camiseta;Azul;Levis
+106;24/10/2009;158;Accesorios;Azul;Levis
+87;17/05/2009;265;Pantalon;Amarillo;Polo Club
+142;30/05/2013;222;Interior;Verde;Gef
+48;27/03/2013;252;Camiseta;Rojo;Arturo Calle
+193;2/07/2009;129;Camisa;Verde;Tennis
+132;14/09/2009;254;Camisa;Blanco;Levis
+138;20/09/2009;290;Accesorios;Negro;Polo Club
+29;24/06/2008;313;Pantalon;Verde;Tennis
+2;15/12/2008;102;Accesorios;Blanco;Levis
+30;21/08/2009;211;Pantalon;Negro;Polo Club
+79;15/06/2009;205;Interior;Verde;Gef
+80;27/06/2009;320;Pantalon;Blanco;Arturo Calle
+15;6/10/2008;167;Accesorios;Negro;Tennis
+49;26/01/2008;278;Camiseta;Rojo;Levis
+186;13/05/2009;101;Camiseta;Rojo;Levis
+13;24/02/2014;102;Camiseta;Azul;Polo Club
+66;21/07/2009;291;Camiseta;Azul;Gef
+180;20/08/2009;319;Interior;Amarillo;Arturo Calle
+113;30/11/2008;270;Interior;Verde;Tennis
+138;6/08/2009;109;Accesorios;Rojo;Levis
+83;15/01/2010;201;Camisa;Verde;Levis
+51;7/09/2009;110;Pantalon;Amarillo;Polo Club
+166;2/12/2009;258;Camiseta;Verde;Arturo Calle
+139;1/01/2009;331;Pantalon;Rojo;Tennis
+85;3/03/2009;280;Accesorios;Verde;Levis
+31;12/12/2009;303;Camisa;Amarillo;Polo Club
+109;6/12/2008;77;Camiseta;Rojo;Tennis
+137;12/01/2010;330;Pantalon;Rojo;Levis
+49;1/12/2009;113;Accesorios;Azul;Polo Club
+66;23/10/2009;247;Camisa;Azul;Tennis
+170;29/12/2009;131;Interior;Amarillo;Levis
+149;4/01/2010;225;Interior;Verde;Polo Club
+13;8/06/2008;87;Camiseta;Rojo;Tennis
+176;26/02/2010;47;Camiseta;Verde;Levis
+99;1/12/2008;148;Pantalon;Amarillo;Polo Club
+100;16/03/2009;340;Camisa;Verde;Gef
+147;20/02/2010;128;Camisa;Rojo;Arturo Calle
+89;13/04/2010;33;Interior;Verde;Tennis
+52;18/02/2010;206;Accesorios;Verde;Levis
+34;12/11/2008;308;Camiseta;Blanco;Levis
+71;12/01/2009;288;Interior;Negro;Polo Club
+54;15/04/2009;65;Pantalon;Rojo;Gef
+98;1/04/2010;162;Camiseta;Azul;Arturo Calle
+184;3/10/2009;205;Interior;Amarillo;Gef
+28;26/12/2009;173;Camiseta;Verde;Arturo Calle
+110;11/03/2010;62;Camiseta;Blanco;Tennis
+39;18/11/2009;129;Accesorios;Negro;Levis
+28;30/09/2009;144;Interior;Rojo;Polo Club
+57;3/05/2010;212;Camisa;Verde;Tennis
+51;20/03/2010;216;Pantalon;Blanco;Levis
+193;7/04/2010;179;Interior;Negro;Polo Club
+97;16/04/2010;211;Camiseta;Rojo;Gef
+107;10/07/2010;137;Camisa;Rojo;Arturo Calle
+94;14/04/2010;162;Pantalon;Azul;Tennis
+82;29/10/2009;206;Pantalon;Amarillo;Levis
+44;20/07/2010;205;Accesorios;Verde;Levis
+94;20/12/2009;190;Accesorios;Rojo;Polo Club
+153;17/03/2010;335;Pantalon;Verde;Gef
+190;17/05/2010;57;Camisa;Blanco;Arturo Calle
+152;13/01/2009;176;Interior;Negro;Tennis
+7;25/03/2009;188;Accesorios;Rojo;Levis
+58;16/04/2009;198;Pantalon;Rojo;Polo Club
+155;3/08/2008;246;Camisa;Azul;Tennis
+83;6/04/2009;319;Accesorios;Azul;Levis
+8;19/04/2008;302;Camisa;Amarillo;Polo Club
+192;6/05/2009;349;Camiseta;Verde;Gef
+55;11/06/2009;99;Accesorios;Blanco;Arturo Calle
+200;12/08/2008;147;Accesorios;Negro;Tennis
+166;15/11/2008;45;Pantalon;Rojo;Levis
+146;1/01/2009;51;Pantalon;Azul;Levis
+99;26/12/2008;129;Camisa;Amarillo;Polo Club
+168;14/02/2009;274;Camisa;Verde;Levis
+34;19/10/2007;290;Camiseta;Blanco;Polo Club
+7;16/02/2009;75;Pantalon;Negro;Gef
+40;26/06/2009;191;Pantalon;Rojo;Arturo Calle
+171;8/06/2009;285;Camiseta;Verde;Tennis
+133;5/12/2008;315;Interior;Blanco;Levis
+109;29/05/2008;164;Accesorios;Negro;Levis
+144;2/01/2009;245;Camisa;Rojo;Polo Club
+31;11/04/2009;181;Pantalon;Rojo;Gef
+47;21/04/2009;310;Accesorios;Azul;Arturo Calle
+148;12/06/2008;39;Camisa;Amarillo;Tennis
+52;12/01/2009;131;Accesorios;Verde;Levis
+118;5/09/2010;163;Accesorios;Rojo;Polo Club
+33;9/10/2009;289;Interior;Verde;Tennis
+43;3/02/2010;231;Interior;Blanco;Levis
+154;6/03/2008;72;Pantalon;Negro;Polo Club
+71;24/10/2009;245;Camiseta;Rojo;Gef
+22;17/05/2009;255;Pantalon;Rojo;Arturo Calle
+59;30/05/2013;75;Camiseta;Azul;Tennis
+112;27/03/2013;301;Pantalon;Azul;Levis
+133;2/07/2009;261;Interior;Amarillo;Levis
+61;14/09/2009;86;Camisa;Verde;Polo Club
+198;20/09/2009;54;Pantalon;Rojo;Gef
+73;24/06/2008;331;Camiseta;Verde;Arturo Calle
+4;15/12/2008;302;Accesorios;Blanco;Tennis
+175;21/08/2009;202;Pantalon;Negro;Levis
+103;15/06/2009;275;Interior;Verde;Polo Club
+199;27/06/2009;288;Camiseta;Blanco;Tennis
+99;6/10/2008;317;Accesorios;Negro;Levis
+107;26/01/2008;278;Camiseta;Verde;Polo Club
+4;13/05/2009;117;Interior;Blanco;Gef
+24;24/02/2014;198;Camisa;Negro;Arturo Calle
+185;21/07/2009;122;Accesorios;Rojo;Tennis
+65;20/08/2009;123;Pantalon;Rojo;Levis
+18;30/11/2008;207;Accesorios;Azul;Levis
+16;6/08/2009;333;Camisa;Azul;Polo Club
+76;15/01/2010;311;Accesorios;Amarillo;Gef
+181;7/09/2009;278;Interior;Verde;Arturo Calle
+157;2/12/2009;292;Pantalon;Rojo;Tennis
+109;1/01/2009;298;Pantalon;Verde;Levis
+177;3/03/2009;161;Interior;Amarillo;Levis
+103;12/12/2009;147;Camiseta;Verde;Polo Club
+46;6/12/2008;209;Camiseta;Rojo;Arturo Calle
+157;12/01/2010;74;Camisa;Verde;Tennis
+101;1/12/2009;136;Camisa;Azul;Levis
+194;23/10/2009;80;Accesorios;Amarillo;Polo Club
+27;29/12/2009;192;Camisa;Verde;Tennis
+69;4/01/2010;221;Interior;Blanco;Levis
+169;8/06/2008;30;Interior;Negro;Polo Club
+84;26/02/2010;328;Camiseta;Rojo;Tennis
+85;1/12/2008;210;Interior;Azul;Levis
+32;16/03/2009;255;Accesorios;Amarillo;Polo Club
+51;20/02/2010;191;Interior;Verde;Tennis
+6;13/04/2010;305;Camisa;Blanco;Levis
+181;18/02/2010;121;Accesorios;Negro;Polo Club
+166;12/11/2008;190;Camisa;Rojo;Gef
+22;12/01/2009;100;Camiseta;Verde;Arturo Calle
+36;15/04/2009;219;Interior;Blanco;Tennis
+129;1/04/2010;329;Accesorios;Negro;Levis
+76;3/10/2009;319;Camiseta;Rojo;Levis
+6;26/12/2009;134;Camisa;Rojo;Polo Club
+159;11/03/2010;112;Interior;Azul;Gef
+93;18/11/2009;41;Camisa;Amarillo;Arturo Calle
+7;30/09/2009;279;Camisa;Verde;Gef
+180;3/05/2010;95;Pantalon;Rojo;Levis
+74;20/03/2010;234;Accesorios;Verde;Polo Club
+33;7/04/2010;339;Pantalon;Blanco;Tennis
+117;16/04/2010;308;Accesorios;Negro;Levis
+41;10/07/2010;80;Camiseta;Rojo;Polo Club
+3;14/04/2010;227;Accesorios;Rojo;Gef
+36;29/10/2009;165;Accesorios;Azul;Arturo Calle
+29;20/07/2010;71;Pantalon;Azul;Tennis
+43;20/12/2009;265;Camisa;Amarillo;Levis
+98;17/03/2010;250;Camisa;Verde;Levis
+63;17/05/2010;259;Pantalon;Rojo;Polo Club
+167;13/01/2009;116;Camiseta;Verde;Levis
+105;25/03/2009;56;Interior;Blanco;Polo Club
+147;16/04/2009;199;Camisa;Negro;Tennis
+69;3/08/2008;294;Camiseta;Verde;Levis
+49;6/04/2009;45;Pantalon;Blanco;Polo Club
+92;19/04/2008;347;Camiseta;Negro;Gef
+183;6/05/2009;324;Interior;Verde;Arturo Calle
+68;11/06/2009;36;Camiseta;Blanco;Tennis
+74;12/08/2008;223;Camiseta;Negro;Levis
+1;15/11/2008;69;Camiseta;Rojo;Levis
+110;1/01/2009;146;Pantalon;Rojo;Polo Club
+47;26/12/2008;249;Accesorios;Azul;Gef
+4;14/02/2009;31;Pantalon;Azul;Arturo Calle
+135;19/10/2007;177;Pantalon;Amarillo;Tennis
+182;16/02/2009;221;Pantalon;Verde;Levis
+79;26/06/2009;332;Pantalon;Rojo;Polo Club
+27;8/06/2009;212;Interior;Verde;Tennis
+73;5/12/2008;30;Pantalon;Amarillo;Polo Club
+196;29/05/2008;219;Camisa;Verde;Levis
+133;2/01/2009;227;Accesorios;Rojo;Levis
+164;11/04/2009;202;Pantalon;Verde;Polo Club
+181;21/04/2009;82;Camiseta;Amarillo;Levis
+118;12/06/2008;237;Camiseta;Rojo;Polo Club
+140;12/01/2009;41;Camiseta;Rojo;Tennis
+117;5/09/2010;57;Interior;Azul;Levis
+180;9/10/2009;137;Camisa;Azul;Polo Club
+182;3/02/2010;329;Accesorios;Amarillo;Gef
+46;6/03/2008;209;Accesorios;Verde;Arturo Calle
+110;24/10/2009;68;Pantalon;Rojo;Tennis
+124;17/05/2009;212;Accesorios;Verde;Levis
+110;30/05/2013;163;Camisa;Amarillo;Levis
+93;27/03/2013;183;Camisa;Verde;Polo Club
+138;2/07/2009;64;Pantalon;Rojo;Gef
+54;14/09/2009;268;Interior;Verde;Arturo Calle
+167;20/09/2009;268;Accesorios;Verde;Tennis
+64;24/06/2008;143;Accesorios;Blanco;Levis
+153;15/12/2008;311;Interior;Negro;Polo Club
+191;21/08/2009;350;Interior;Rojo;Tennis
+166;15/06/2009;166;Camiseta;Azul;Levis
+171;27/06/2009;201;Camisa;Amarillo;Tennis
+109;6/10/2008;271;Camisa;Verde;Levis
+18;26/01/2008;173;Interior;Blanco;Levis
+3;13/05/2009;331;Camisa;Negro;Polo Club
+1;24/02/2014;207;Interior;Rojo;Levis
+50;21/07/2009;323;Accesorios;Verde;Polo Club
+38;20/08/2009;41;Camiseta;Blanco;Tennis
+152;30/11/2008;131;Accesorios;Negro;Levis
+67;6/08/2009;326;Camiseta;Rojo;Polo Club
+36;15/01/2010;142;Camisa;Rojo;Gef
+129;7/09/2009;82;Camiseta;Azul;Arturo Calle
+98;2/12/2009;223;Accesorios;Amarillo;Tennis
+193;1/01/2009;338;Interior;Verde;Levis
+10;3/03/2009;88;Camisa;Rojo;Levis
+105;12/12/2009;278;Camisa;Verde;Polo Club
+143;6/12/2008;193;Camiseta;Blanco;Gef
+186;12/01/2010;173;Camisa;Negro;Arturo Calle
+102;1/12/2009;136;Camiseta;Rojo;Tennis
+19;23/10/2009;168;Camiseta;Rojo;Levis
+160;29/12/2009;316;Camisa;Azul;Polo Club
+32;4/01/2010;79;Pantalon;Azul;Tennis
+166;8/06/2008;109;Interior;Amarillo;Polo Club
+9;26/02/2010;243;Camiseta;Verde;Levis
+137;1/12/2008;204;Pantalon;Blanco;Levis
+54;16/03/2009;71;Camisa;Negro;Polo Club
+106;20/02/2010;264;Pantalon;Rojo;Levis
+97;13/04/2010;207;Camisa;Azul;Polo Club
+73;18/02/2010;113;Camisa;Amarillo;Tennis
+148;12/11/2008;207;Camiseta;Verde;Levis
+162;12/01/2009;219;Pantalon;Blanco;Polo Club
+179;15/04/2009;336;Accesorios;Negro;Gef
+1;1/04/2010;318;Accesorios;Rojo;Arturo Calle
+49;3/10/2009;132;Accesorios;Verde;Tennis
+3;26/12/2009;344;Pantalon;Blanco;Levis
+136;11/03/2010;156;Interior;Negro;Levis
+153;18/11/2009;116;Camiseta;Rojo;Polo Club
+78;30/09/2009;211;Pantalon;Rojo;Gef
+191;3/05/2010;265;Accesorios;Azul;Arturo Calle
+120;20/03/2010;183;Accesorios;Amarillo;Tennis
+120;7/04/2010;71;Interior;Verde;Levis
+34;16/04/2010;324;Pantalon;Rojo;Polo Club
+116;10/07/2010;57;Interior;Verde;Tennis
+106;14/04/2010;54;Camisa;Blanco;Arturo Calle
+165;29/10/2009;122;Camiseta;Negro;Tennis
+158;20/07/2010;175;Pantalon;Rojo;Levis
+114;20/12/2009;215;Camisa;Rojo;Polo Club
+33;17/03/2010;260;Camiseta;Azul;Tennis
+102;17/05/2010;260;Camiseta;Azul;Levis
+119;11/07/2011;315;Accesorios;Amarillo;Tennis
+178;2/07/2011;192;Pantalon;Verde;Levis
+54;5/06/2011;82;Accesorios;Rojo;Levis
+14;21/06/2011;106;Interior;Verde;Polo Club
+48;3/03/2011;155;Camisa;Blanco;Levis
+30;11/12/2010;87;Interior;Negro;Polo Club
+152;13/12/2010;343;Pantalon;Verde;Tennis
+95;4/03/2010;348;Camisa;Blanco;Levis
+31;17/04/2011;326;Camisa;Negro;Polo Club
+183;3/09/2013;303;Camisa;Verde;Gef
+22;15/12/2011;134;Interior;Blanco;Arturo Calle
+165;11/03/2011;241;Pantalon;Negro;Tennis
+80;1/08/2011;101;Accesorios;Rojo;Levis
+63;27/02/2012;177;Accesorios;Rojo;Levis
+137;7/02/2010;86;Pantalon;Azul;Polo Club
+192;5/02/2011;52;Camisa;Azul;Gef
+194;3/05/2011;336;Interior;Amarillo;Arturo Calle
+164;6/07/2011;192;Camisa;Verde;Tennis
+98;31/05/2011;195;Camisa;Rojo;Levis
+157;2/07/2011;128;Pantalon;Verde;Polo Club
+88;12/10/2010;172;Camisa;Amarillo;Tennis
+27;28/12/2011;35;Pantalon;Verde;Polo Club
+190;3/07/2010;74;Camisa;Rojo;Levis
+159;1/07/2011;125;Pantalon;Verde;Levis
+143;16/07/2011;59;Pantalon;Azul;Polo Club
+150;20/07/2010;202;Camiseta;Amarillo;Levis
+23;14/06/2011;65;Camiseta;Verde;Polo Club
+166;19/02/2010;56;Pantalon;Blanco;Tennis
+88;4/12/2011;170;Camisa;Negro;Levis
+168;8/03/2011;155;Camisa;Rojo;Polo Club
+79;25/12/2010;97;Pantalon;Azul;Gef
+167;24/06/2011;185;Interior;Amarillo;Arturo Calle
+130;11/06/2011;173;Camisa;Verde;Tennis
+38;16/06/2010;164;Interior;Blanco;Levis
+29;17/01/2011;125;Pantalon;Negro;Levis
+122;15/06/2011;92;Camiseta;Rojo;Polo Club
+138;2/03/2011;90;Camisa;Verde;Gef
+26;27/08/2011;106;Pantalon;Blanco;Arturo Calle
+133;19/07/2012;145;Interior;Negro;Tennis
+170;17/06/2011;268;Pantalon;Rojo;Levis
+148;25/03/2012;301;Camisa;Rojo;Polo Club
+54;9/05/2011;191;Camiseta;Azul;Tennis
+78;22/11/2010;193;Pantalon;Amarillo;Gef
+155;12/05/2011;51;Camisa;Verde;Arturo Calle
+114;4/05/2011;230;Pantalon;Rojo;Tennis
+92;10/10/2009;114;Camiseta;Verde;Levis
+44;1/06/2010;333;Camisa;Blanco;Polo Club
+78;20/01/2011;82;Interior;Negro;Tennis
+80;19/11/2009;301;Interior;Rojo;Levis
+19;19/08/2010;327;Accesorios;Rojo;Polo Club
+177;26/08/2010;306;Interior;Azul;Gef
+75;11/05/2011;275;Camiseta;Azul;Arturo Calle
+53;1/05/2011;255;Camisa;Amarillo;Tennis
+6;12/06/2011;334;Camiseta;Verde;Levis
+102;15/07/2011;253;Pantalon;Rojo;Levis
+93;10/09/2011;43;Accesorios;Verde;Polo Club
+151;6/01/2016;215;Camisa;Blanco;Gef
+88;13/07/2011;119;Interior;Negro;Arturo Calle
+106;3/07/2011;111;Pantalon;Verde;Tennis
+138;17/10/2011;279;Camisa;Blanco;Levis
+119;9/09/2010;346;Camisa;Negro;Levis
+64;14/02/2011;257;Pantalon;Verde;Polo Club
+90;7/06/2011;292;Accesorios;Blanco;Arturo Calle
+95;12/07/2011;343;Camisa;Negro;Tennis
+177;13/04/2011;117;Camiseta;Rojo;Levis
+136;21/05/2010;191;Pantalon;Rojo;Polo Club
+58;4/07/2011;207;Accesorios;Azul;Tennis
+105;1/01/2010;313;Accesorios;Azul;Levis
+169;10/05/2011;245;Interior;Amarillo;Polo Club
+39;18/04/2011;70;Interior;Verde;Tennis
+180;18/11/2010;125;Accesorios;Rojo;Levis
+49;25/06/2012;279;Camisa;Verde;Polo Club
+107;7/07/2011;70;Camisa;Amarillo;Tennis
+105;13/04/2012;196;Pantalon;Verde;Levis
+74;14/07/2011;129;Accesorios;Rojo;Polo Club
+156;16/09/2011;76;Pantalon;Verde;Gef
+90;1/05/2010;339;Interior;Amarillo;Arturo Calle
+182;14/11/2010;250;Pantalon;Rojo;Tennis
+131;13/12/2010;226;Interior;Rojo;Levis
+41;12/07/2010;285;Pantalon;Azul;Levis
+36;27/01/2010;326;Accesorios;Azul;Polo Club
+81;23/07/2011;135;Interior;Amarillo;Gef
+95;17/01/2011;243;Interior;Verde;Arturo Calle
+198;6/11/2010;311;Pantalon;Rojo;Gef
+39;15/02/2011;218;Camisa;Verde;Arturo Calle
+159;3/02/2011;80;Pantalon;Amarillo;Tennis
+182;27/09/2011;349;Pantalon;Verde;Levis
+122;23/08/2011;63;Camiseta;Rojo;Polo Club
+17;11/06/2011;199;Camisa;Verde;Tennis
+36;9/10/2011;154;Camisa;Verde;Levis
+166;29/11/2010;291;Camiseta;Blanco;Polo Club
+158;17/08/2010;276;Camiseta;Negro;Gef
+30;7/07/2011;83;Accesorios;Rojo;Arturo Calle
+30;25/07/2010;94;Camiseta;Azul;Tennis
+131;1/07/2011;301;Camiseta;Amarillo;Levis
+54;27/03/2011;52;Camiseta;Verde;Levis
+181;7/09/2011;74;Pantalon;Blanco;Polo Club
+184;3/03/2010;274;Camiseta;Negro;Gef
+128;2/07/2011;161;Interior;Rojo;Arturo Calle
+73;24/09/2011;71;Accesorios;Verde;Tennis
+29;27/08/2011;326;Camisa;Blanco;Levis
+194;13/06/2011;132;Interior;Negro;Polo Club
+95;18/10/2011;125;Accesorios;Rojo;Tennis
+139;9/09/2011;162;Accesorios;Rojo;Levis
+65;18/08/2011;155;Accesorios;Azul;Polo Club
+156;19/12/2010;85;Camiseta;Amarillo;Gef
+9;13/05/2011;332;Camisa;Verde;Arturo Calle
+53;29/12/2011;76;Accesorios;Rojo;Tennis
+104;20/05/2011;167;Camiseta;Verde;Levis
+9;15/05/2011;124;Pantalon;Blanco;Levis
+47;28/02/2011;319;Accesorios;Negro;Polo Club
+24;24/01/2011;342;Camisa;Rojo;Gef
+49;26/05/2011;284;Interior;Rojo;Arturo Calle
+27;20/01/2012;271;Camiseta;Azul;Tennis
+162;4/01/2012;130;Camiseta;Azul;Levis
+62;25/03/2010;293;Camisa;Amarillo;Polo Club
+160;9/06/2011;76;Camiseta;Verde;Tennis
+176;31/05/2011;301;Interior;Blanco;Levis
+181;18/03/2012;287;Pantalon;Negro;Polo Club
+182;13/01/2011;217;Accesorios;Rojo;Gef
+65;21/01/2011;33;Interior;Azul;Arturo Calle
+148;13/12/2012;189;Pantalon;Amarillo;Tennis
+5;20/08/2011;249;Pantalon;Verde;Levis
+172;21/08/2011;36;Camiseta;Blanco;Levis
+93;16/08/2011;74;Pantalon;Negro;Polo Club
+166;28/01/2015;292;Pantalon;Rojo;Gef
+170;16/09/2011;190;Camisa;Verde;Arturo Calle
+120;27/08/2011;68;Camisa;Blanco;Tennis
+98;25/09/2011;304;Pantalon;Negro;Levis
+128;29/06/2011;68;Interior;Rojo;Levis
+127;25/04/2011;213;Interior;Rojo;Polo Club
+191;4/03/2010;304;Pantalon;Azul;Arturo Calle
+43;16/03/2011;52;Camisa;Amarillo;Tennis
+86;2/06/2011;310;Camiseta;Verde;Levis
+140;6/10/2011;205;Camiseta;Rojo;Polo Club
+174;10/09/2010;76;Pantalon;Verde;Tennis
+111;15/09/2011;46;Camiseta;Blanco;Levis
+166;18/05/2010;95;Accesorios;Negro;Polo Club
+72;12/10/2011;88;Interior;Rojo;Tennis
+104;23/12/2014;318;Pantalon;Rojo;Levis
+23;17/10/2011;199;Interior;Azul;Polo Club
+73;15/06/2011;151;Accesorios;Azul;Tennis
+144;29/08/2011;302;Accesorios;Amarillo;Levis
+128;22/08/2012;336;Camisa;Verde;Polo Club
+185;9/12/2012;72;Camisa;Rojo;Gef
+47;17/07/2011;79;Pantalon;Verde;Arturo Calle
+190;30/08/2011;286;Camisa;Blanco;Tennis
+86;4/01/2011;136;Camiseta;Negro;Levis
+165;23/09/2011;223;Camiseta;Verde;Levis
+168;14/05/2011;54;Pantalon;Blanco;Polo Club
+44;20/10/2011;137;Interior;Negro;Gef
+199;13/09/2011;268;Interior;Verde;Arturo Calle
+86;14/08/2011;114;Camiseta;Blanco;Gef
+11;21/02/2011;86;Accesorios;Negro;Arturo Calle
+18;6/09/2011;96;Accesorios;Rojo;Tennis
+178;20/07/2011;166;Interior;Rojo;Levis
+111;5/10/2011;215;Interior;Azul;Polo Club
+196;29/11/2010;258;Camiseta;Azul;Tennis
+124;7/01/2012;272;Accesorios;Amarillo;Levis
+141;8/01/2010;249;Camisa;Verde;Polo Club
+177;22/03/2012;252;Camisa;Rojo;Gef
+101;19/07/2011;80;Camiseta;Verde;Arturo Calle
+51;14/10/2010;190;Pantalon;Amarillo;Tennis
+51;26/08/2011;135;Camiseta;Verde;Levis
+166;9/05/2011;326;Camiseta;Rojo;Levis
+174;16/08/2011;41;Pantalon;Verde;Polo Club
+78;20/09/2011;310;Camiseta;Azul;Gef
+105;21/08/2011;183;Camiseta;Amarillo;Arturo Calle
+53;11/04/2011;158;Camisa;Verde;Tennis
+125;3/12/2010;241;Camiseta;Blanco;Levis
+8;6/07/2011;34;Pantalon;Negro;Polo Club
+131;3/09/2011;325;Accesorios;Rojo;Tennis
+23;29/10/2011;267;Interior;Azul;Levis
+1;25/12/2009;49;Interior;Amarillo;Polo Club
+111;5/04/2010;90;Camisa;Verde;Gef
+46;15/03/2010;152;Accesorios;Blanco;Arturo Calle
+97;16/09/2011;93;Camiseta;Negro;Tennis
+93;31/03/2011;149;Interior;Rojo;Levis
+118;14/04/2011;127;Camiseta;Verde;Levis
+62;13/01/2011;244;Interior;Blanco;Polo Club
+166;25/08/2011;70;Accesorios;Negro;Levis
+103;7/03/2013;296;Accesorios;Rojo;Polo Club
+155;16/08/2011;129;Accesorios;Rojo;Gef
+8;11/07/2011;68;Camiseta;Azul;Arturo Calle
+67;2/07/2011;195;Camiseta;Amarillo;Tennis
+165;5/06/2011;292;Pantalon;Verde;Levis
+22;21/06/2011;182;Interior;Rojo;Levis
+187;3/03/2011;320;Camisa;Verde;Polo Club
+196;11/12/2010;52;Accesorios;Blanco;Gef
+162;13/12/2010;37;Accesorios;Negro;Arturo Calle
+41;4/03/2010;46;Interior;Rojo;Tennis
+185;17/04/2011;273;Interior;Rojo;Levis
+200;3/09/2013;178;Interior;Azul;Polo Club
+160;15/12/2011;86;Accesorios;Azul;Tennis
+26;11/03/2011;209;Accesorios;Amarillo;Levis
+35;1/08/2011;149;Camisa;Verde;Polo Club
+181;27/02/2012;118;Pantalon;Rojo;Gef
+65;7/02/2010;79;Pantalon;Verde;Arturo Calle
+162;5/02/2011;238;Accesorios;Blanco;Tennis
+51;3/05/2011;339;Accesorios;Negro;Levis
+155;6/07/2011;47;Interior;Verde;Levis
+158;31/05/2011;321;Interior;Blanco;Polo Club
+134;2/07/2011;232;Pantalon;Negro;Gef
+200;12/10/2010;45;Camisa;Verde;Arturo Calle
+98;28/12/2011;198;Accesorios;Blanco;Tennis
+137;3/07/2010;137;Camisa;Negro;Levis
+86;1/07/2011;339;Camisa;Rojo;Polo Club
+13;16/07/2011;251;Interior;Rojo;Tennis
+48;20/07/2010;148;Pantalon;Azul;Levis
+173;14/06/2011;109;Interior;Azul;Polo Club
+153;19/02/2010;135;Interior;Amarillo;Gef
+122;4/12/2011;146;Pantalon;Verde;Arturo Calle
+142;8/03/2011;316;Camisa;Rojo;Tennis
+157;25/12/2010;129;Accesorios;Verde;Levis
+99;24/06/2011;199;Camisa;Amarillo;Levis
+67;11/06/2011;302;Accesorios;Verde;Polo Club
+113;16/06/2010;276;Camiseta;Rojo;Gef
+11;17/01/2011;90;Camiseta;Verde;Arturo Calle
+192;15/06/2011;296;Accesorios;Amarillo;Tennis
+20;2/03/2011;183;Interior;Rojo;Levis
+134;27/08/2011;75;Pantalon;Rojo;Levis
+83;19/07/2012;173;Camiseta;Azul;Polo Club
+87;17/06/2011;99;Pantalon;Azul;Arturo Calle
+44;25/03/2012;275;Camiseta;Amarillo;Tennis
+173;9/05/2011;106;Interior;Verde;Levis
+48;22/11/2010;70;Pantalon;Rojo;Polo Club
+107;12/05/2011;121;Pantalon;Verde;Tennis
+74;4/05/2011;265;Camisa;Amarillo;Levis
+128;10/10/2009;248;Interior;Verde;Polo Club
+99;1/06/2010;345;Camiseta;Rojo;Tennis
+67;20/01/2011;190;Pantalon;Verde;Levis
+98;19/11/2009;253;Camisa;Verde;Polo Club
+187;19/08/2010;80;Camisa;Blanco;Tennis
+122;26/08/2010;334;Camiseta;Negro;Levis
+93;11/05/2011;290;Pantalon;Rojo;Polo Club
+69;1/05/2011;112;Accesorios;Azul;Gef
+29;12/06/2011;131;Interior;Amarillo;Arturo Calle
+153;15/07/2011;332;Camiseta;Verde;Tennis
+14;10/09/2011;280;Camisa;Blanco;Levis
+153;6/01/2016;66;Interior;Negro;Levis
+161;13/07/2011;321;Pantalon;Rojo;Polo Club
+182;3/07/2011;175;Camisa;Verde;Gef
+53;17/10/2011;142;Camisa;Blanco;Arturo Calle
+152;9/09/2010;286;Camisa;Negro;Gef
+65;14/02/2011;174;Pantalon;Rojo;Levis
+193;7/06/2011;255;Pantalon;Rojo;Polo Club
+24;12/07/2011;268;Accesorios;Azul;Tennis
+144;13/04/2011;165;Pantalon;Amarillo;Levis
+62;21/05/2010;246;Camiseta;Verde;Polo Club
+20;4/07/2011;106;Accesorios;Rojo;Gef
+67;1/01/2010;212;Pantalon;Verde;Arturo Calle
+194;10/05/2011;349;Pantalon;Blanco;Tennis
+38;18/04/2011;120;Accesorios;Negro;Levis
+144;18/11/2010;207;Camiseta;Rojo;Levis
+5;25/06/2012;285;Camiseta;Rojo;Polo Club
+19;7/07/2011;53;Pantalon;Azul;Gef
+68;13/04/2012;255;Interior;Negro;Arturo Calle
+172;14/07/2011;143;Interior;Verde;Tennis
+20;16/09/2011;153;Camiseta;Blanco;Levis
+141;1/05/2010;320;Pantalon;Negro;Polo Club
+86;14/11/2010;126;Camiseta;Verde;Tennis
+47;13/12/2010;328;Interior;Blanco;Levis
+86;12/07/2010;76;Accesorios;Negro;Polo Club
+83;27/01/2010;269;Interior;Rojo;Gef
+187;23/07/2011;330;Camiseta;Rojo;Arturo Calle
+128;17/01/2011;258;Camiseta;Azul;Tennis
+20;6/11/2010;113;Accesorios;Azul;Levis
+14;15/02/2011;256;Pantalon;Amarillo;Levis
+40;3/02/2011;315;Camiseta;Verde;Polo Club
+153;27/09/2011;135;Camiseta;Rojo;Gef
+123;23/08/2011;288;Camiseta;Verde;Arturo Calle
+136;11/06/2011;172;Accesorios;Amarillo;Tennis
+19;9/10/2011;181;Camiseta;Verde;Levis
+51;29/11/2010;284;Camiseta;Rojo;Levis
+153;17/08/2010;226;Pantalon;Verde;Polo Club
+145;7/07/2011;67;Pantalon;Azul;Arturo Calle
+32;25/07/2010;339;Camiseta;Amarillo;Tennis
+87;1/07/2011;144;Accesorios;Verde;Levis
+174;27/03/2011;228;Camiseta;Blanco;Polo Club
+122;7/09/2011;340;Interior;Negro;Tennis
+139;3/03/2010;336;Camisa;Rojo;Levis
+95;2/07/2011;172;Pantalon;Azul;Polo Club
+158;24/09/2011;333;Accesorios;Amarillo;Tennis
+149;27/08/2011;280;Camiseta;Verde;Levis
+137;13/06/2011;112;Camiseta;Blanco;Polo Club
+15;18/10/2011;174;Camisa;Negro;Tennis
+64;9/09/2011;152;Interior;Rojo;Levis
+94;18/08/2011;46;Accesorios;Verde;Polo Club
+95;19/12/2010;200;Interior;Blanco;Gef
+143;13/05/2011;251;Camiseta;Negro;Arturo Calle
+190;29/12/2011;79;Camiseta;Rojo;Tennis
+54;20/05/2011;319;Camiseta;Rojo;Levis
+145;15/05/2011;320;Camiseta;Azul;Levis
+44;28/02/2011;150;Camisa;Amarillo;Polo Club
+39;24/01/2011;303;Pantalon;Verde;Gef
+141;26/05/2011;111;Camisa;Rojo;Arturo Calle
+57;20/01/2012;220;Camiseta;Verde;Gef
+143;4/01/2012;148;Camiseta;Blanco;Arturo Calle
+120;25/03/2010;105;Pantalon;Negro;Tennis
+107;9/06/2011;203;Accesorios;Rojo;Levis
+116;31/05/2011;73;Accesorios;Rojo;Polo Club
+20;18/03/2012;80;Accesorios;Azul;Tennis
+31;13/01/2011;288;Camiseta;Azul;Levis
+99;21/01/2011;185;Camisa;Amarillo;Polo Club
+197;13/12/2012;44;Camisa;Verde;Gef
+35;20/08/2011;36;Camisa;Rojo;Arturo Calle
+54;21/08/2011;323;Camisa;Verde;Tennis
+33;16/08/2011;178;Accesorios;Blanco;Levis
+185;28/01/2015;154;Camiseta;Negro;Levis
+107;16/09/2011;349;Pantalon;Verde;Polo Club
+27;27/08/2011;162;Camisa;Blanco;Gef
+103;25/09/2011;203;Interior;Negro;Arturo Calle
+71;29/06/2011;200;Camiseta;Verde;Tennis
+45;25/04/2011;331;Interior;Blanco;Levis
+72;4/03/2010;174;Interior;Negro;Polo Club
+193;16/03/2011;170;Pantalon;Rojo;Tennis
+100;2/06/2011;198;Interior;Rojo;Levis
+119;6/10/2011;67;Interior;Azul;Polo Club
+48;10/09/2010;216;Camisa;Azul;Gef
+25;15/09/2011;107;Camiseta;Amarillo;Arturo Calle
+178;18/05/2010;256;Interior;Verde;Tennis
+136;12/10/2011;249;Interior;Rojo;Levis
+102;23/12/2014;190;Pantalon;Verde;Levis
+107;17/10/2011;257;Pantalon;Amarillo;Polo Club
+176;15/06/2011;197;Camisa;Verde;Gef
+138;29/08/2011;70;Pantalon;Rojo;Arturo Calle
+170;22/08/2012;252;Pantalon;Verde;Tennis
+169;9/12/2012;220;Pantalon;Amarillo;Levis
+11;17/07/2011;188;Accesorios;Rojo;Polo Club
+76;30/08/2011;335;Camiseta;Rojo;Tennis
+115;4/01/2011;270;Camisa;Azul;Levis
+102;23/09/2011;81;Camisa;Azul;Polo Club
+133;14/05/2011;209;Interior;Amarillo;Gef
