@@ -1,0 +1,366 @@
+#Transacciones de clientes
+
+###### base de Datos/cargar archivo #######
+
+trans_clientes <-
+  read.csv("/Users/yamaha/Dev/Rstudio/clase3/clientes1.csv",
+           sep = ";", header = TRUE)
+ 
+
+transacciones <- 
+  read.csv("/Users/yamaha/Dev/Rstudio/clase3/Transacciones.csv",
+           sep = ";", header = TRUE)
+
+######paquetes y librerias#######
+install.packages("stats")
+library(stats)
+install.packages("dplyr")
+library(dplyr)
+
+
+#para calcular la moda es necesario
+install.packages("modes")
+library(modes)
+#si la fecha no da intala este paquete
+install.packages("tidyr")
+library(tidyr)
+
+#media de la base de datos - el saldo(la media siempre positiva sacamos valor absoluto abs)
+#asignar nuevo campo calculando la media
+trans_clientes$media_saldo<-
+  as.numeric(abs(mean(trans_clientes$Saldo)-trans_clientes$Saldo))
+
+#eliminar una columna
+trans_clientes<-
+  trans_clientes[,-7]
+
+#convertir la variable en fecha
+#crear fecha de hoy
+#crear la variable edad
+trans_clientes$fecha<-
+  as.Date(trans_clientes$Fecha_Nacimiento,"%d/%m/%Y")
+trans_clientes$fechahoy<-
+  as.Date(Sys.Date(),"%d/%m/%y")
+trans_clientes$Edad<-
+  as.integer((trans_clientes$fechahoy-trans_clientes$fecha)/365,25)
+
+#cuantos usuarios hay
+nrow(trans_clientes)
+
+#numero de transacciones
+nrow(transacciones)
+
+#promedio transacciones/trnas_clientes
+promedio<-
+as.numeric(nrow(transacciones)/nrow(trans_clientes))
+
+#print
+promedio
+
+#########medidas de tendencia central########
+#Media, Moda, mediana, max, min
+max(trans_clientes$edad)
+min(trans_clientes$edad)
+mean(trans_clientes$edad)   #media es el promedio de los datos
+median(trans_clientes$edad) #es el dato excacto de la mitad
+
+
+#Moda
+modes(trans_clientes$edad)  #es el dato que mas se repite
+
+#quantile = divide los datos y dice cuantos datos hay por cada percentil
+
+quantile(trans_clientes$edad)
+
+#IQR = diferencia entre el primer y el cuarto curtil
+IQR(trans_clientes$edad)
+
+# tabla resume de medidas de tendencia central
+summary(trans_clientes$edad)
+
+# grafico de bigotes, identificar datos atipicos
+boxplot(trans_clientes$edad) 
+
+#######Medidas de dispercion###########
+
+#Rango
+range(trans_clientes$edad)
+#Rango sin valores atipicos
+range(trans_clientes$edad,na.rm = TRUE)
+
+# ayuda a identificar cuantos intervalos puedo tener
+nclass.Sturges(trans_clientes$edad) 
+seq(22,66,length = nclass.Sturges(trans_clientes$edad))
+# n-1 intervalos de clase caso 4-1 = 3 intervalos
+seq(22,66,length = 4) 
+
+#creamos una valiable con los intervalos y le damos nombres
+trans_clientes$segmento_edad<-
+  as.character(cut(trans_clientes$edad, breaks = c(22,36,51,66),
+                   labels = c("Joven","Adulto","A.Mayor")))
+#frecuencia
+
+table(trans_clientes$edad)
+table(trans_clientes$edad, useNA = "ifany")
+#SD = desviacion estandar
+sd(trans_clientes$edad)
+
+#varianza
+var(trans_clientes$edad)
+
+#histograma
+hist(trans_clientes$edad, col = "darkblue")
+
+###### Analisis de Trans_clientes$saldo  ########
+
+#medidas de tendencia central
+summary(trans_clientes$Saldo)
+modes(trans_clientes$Saldo)
+hist(trans_clientes$Saldo, col = "darkgreen")
+#quantiles
+quantile(trans_clientes$Saldo)
+#IQR = diferencia entre el primer y el cuarto curtil
+IQR(trans_clientes$Saldo)
+boxplot(trans_clientes$Saldo)
+#rango
+range(trans_clientes$Saldo)
+range(trans_clientes$Saldo, na.rm = TRUE)
+# ayuda a identificar cuantos intervalos puedo tener
+nclass.Sturges(trans_clientes$Saldo)
+seq(50, 628,length = nclass.Sturges(trans_clientes$Saldo))
+# n-1 intervalos de clase caso 4-1 = 3 intervalos
+seq(50,628, length = 4)
+#creamos una valiable con los intervalos y le damos nombres
+trans_clientes$segmento_saldo<-
+  as.character(cut(trans_clientes$Saldo, breaks = c(50,242,435,628),
+                   labels = c("new","grow","senior")))
+
+table(trans_clientes$Saldo)
+table(trans_clientes$Saldo, useNA = "ifany")
+#SD = desviacion estandar
+sd(trans_clientes$Saldo)
+#varianza
+var(trans_clientes$Saldo)
+#Grafico histograma
+hist(trans_clientes$Saldo, col = "darkblue")
+
+#######  ANALISIS DE TRANSACCION DE MTC Y MD   ############
+#convertir la variable en fecha
+#crear fecha de hoy
+#crear la variable edad
+transacciones$fecha<-
+  as.Date(transacciones$Fecha_Compra,"%d/%m/%Y")
+transacciones$fechahoy<-
+  as.Date(Sys.Date(),"%d/%m/%Y")
+transacciones$edad_venta<-
+  as.integer((transacciones$fechahoy-transacciones$fecha)/365,25)
+
+
+#medidas de tendencia central
+summary(transacciones$Valor_Compra)
+modes(transacciones$Valor_Compra)
+hist(transacciones$Valor_Compra, col = "darkred")
+#quantiles
+quantile(transacciones$Valor_Compra)
+#IQR = diferencia entre el primer y el cuarto curtil
+IQR(transacciones$Valor_Compra)
+boxplot(transacciones$Valor_Compra)
+#rango
+range(transacciones$Valor_Compra)
+range(transacciones$Valor_Compra, na.rm = TRUE)
+table(transacciones$Valor_Compra)
+# ayuda a identificar cuantos intervalos puedo tener
+nclass.Sturges(transacciones$Valor_Compra)
+
+# n-1 intervalos de clase caso 6-1 = 3 intervalos
+seq(30,350, length = 6)
+#creamos una valiable con los intervalos y le damos nombres
+transacciones$segmento_valorCompra<-
+  as.character(cut(transacciones$Valor_Compra, breaks = c(30,94,158,222,286,350),
+                   labels = c("muy malo","Malo","regular","bueno","muy bueno")))
+
+#SD = desviacion estandar
+sd(transacciones$Valor_Compra)
+#varianza
+var(transacciones$Valor_Compra)
+#grafico histograma
+hist(transacciones$Valor_Compra, col = "darkblue")
+hist(transacciones$segmento_valorCompra, col = "darkblue")
+
+plot(transacciones$Valor_Compra, main = "Cantidad de valor de compra ", 
+     col = "dark red", xlab = "valorCompra", ylab = "grupos")
+
+#grupo por producto mas comprado
+Producto_mas_comprado<-
+  group_by(transacciones, Id, Producto) %>% 
+  summarise(total_Producto_mas_comprado=n()) %>%
+  top_n(1)%>%
+  distinct(Id, .keep_all = TRUE)
+
+#grupo por valor mas comprado
+Valor_mas_Comprado<-
+  group_by(transacciones, Id) %>% 
+  summarise(total_Valor_mas_Comprado=sum(Valor_Compra)) #%>%
+  #top_n(1)%>%
+  #distinct(Id, .keep_all = TRUE)
+
+#grupo por marca mas comprada
+Marca_mas_Comprada<-
+  group_by(transacciones, Id, Marca) %>% 
+  summarise(total_Marca_mas_Comprada=n()) %>%
+  top_n(1)%>%
+  distinct(Id, .keep_all = TRUE)
+
+#grupo por color mas comprado
+Color_mas_Comprada<-
+  group_by(transacciones, Id, Color) %>% 
+  summarise(total_Color_mas_Comprada=n()) %>%
+  top_n(1)%>%
+  distinct(Id, .keep_all = TRUE)
+
+#cambiar nombre
+colnames(Variable_Valor_mas_Comprado)[2]<-
+  "Valor_mas_Comprado"
+
+#fecha maxima y minima de compra
+
+Fecha_max_y_min<-
+  group_by(transacciones, Id) %>% 
+  summarise(fecha_max=max(fecha,na.rm = TRUE), fecha_min=min(fecha, na.rm = TRUE)) #%>%
+  #top_n(1)%>%
+  #distinct(Id, .keep_all = TRUE)
+
+#Crusamos/Unimos los dataset que creamos
+Analisis_clientes_finales<-
+  left_join(trans_clientes,Producto_mas_comprado, by = "Id")
+Analisis_clientes_finales<-
+  left_join(Analisis_clientes_finales,Valor_mas_Comprado, by = "Id")
+Analisis_clientes_finales<-
+  left_join(Analisis_clientes_finales,Marca_mas_Comprada, by = "Id")
+Analisis_clientes_finales<-
+  left_join(Analisis_clientes_finales,Color_mas_Comprada, by = "Id")
+Analisis_clientes_finales<-
+  left_join(Analisis_clientes_finales,Fecha_max_y_min, by = "Id")
+
+#Exporto el  dataset del join 
+setwd("/Users/yamaha/Dev/Rstudio/clase4")
+
+write.csv(Analisis_clientes_finales,"datos_usuarios.csv")
+
+###### k - Medias#########
+
+## Normalizamos valor entre 0-1
+
+clientes_final_nuevo<-
+  group_by(Analisis_clientes_finales, Id, Edad, Antiguedad, Saldo,
+           total_Producto_mas_comprado, total_Valor_mas_Comprado)%>%
+  summarise()
+
+clientes_final_scale<-
+  as.data.frame(scale(clientes_final_nuevo[,2:6]))
+
+clientes_final_nuevo1<-
+  group_by(Analisis_clientes_finales, Id, Saldo,total_Producto_mas_comprado,total_Valor_mas_Comprado,
+           total_Marca_mas_Comprada, total_Color_mas_Comprada)%>%
+  summarise()
+
+clientes_final_scale1<-
+  as.data.frame(scale(clientes_final_nuevo1[,2:6]))
+#creamos los clusters
+
+set.seed(800) #sembramos una semilla, esteria el componente aleatorio
+
+clientes_final_KM<-
+  kmeans(clientes_final_scale, centers = 4) #numero de clusters que quiero
+
+names(clientes_final_KM) #
+
+clientes_final_KM$cluster         #asignacion de observaciones por cluster
+clientes_final_KM$totss           #Inercia Total
+clientes_final_KM$betweenss       #Inercia Entregrupos (mayor posible)
+clientes_final_KM$withinss        #Inercia Intragrupos
+clientes_final_KM$tot.withinss    #la suma de las intragrupos (menor posible)
+
+clientes_final_KM_1<-
+  kmeans(clientes_final_scale1, centers = 4) #numero de cluster que quiero
+names(clientes_final_KM_1)
+clientes_final_KM_1$cluster       #asignacion de oservaciones por cluster
+clientes_final_KM_1$totss         #Inercia Total
+clientes_final_KM_1$betweenss     #Inercia Entregrupos(mayor posible)
+clientes_final_KM_1$withinss      #Inercia Intragrupos
+clientes_final_KM_1$tot.withinss  #la suma de las intragrupos (menor posible)
+
+#determinamos el numero de clusters optimo
+
+vector<-
+  kmeans(clientes_final_scale, centers = 1)$betweenss   #almacene la frecuancia de la inercia intergrupos
+
+for(i in 2:20) vector[i]<-kmeans(clientes_final_scale, centers = i)$betweenss   #empezamos en 2 pq en la sentencia anterior hice 1
+
+plot(1:20, vector, type = "b", xlab = "numero de clusters",ylab = "suma de cuadrados intercluster")
+
+vector1<-
+  kmeans(clientes_final_scale1, centers = 1)$betweenss  #almacene la frecuancia de la inercia intergrupos
+for(l in 2:40) vector[l]<- kmeans(clientes_final_scale1, centers = l)$betweenss #empezamos en 2 pq en la sentencia anterior hice 1
+plot(1:40, vector, type = "b", xlab = "numero de clusters", ylab = "suma de cuadrados intercluster")
+
+#Inspeccion de Resultados
+
+plot(clientes_final_nuevo$total_Producto_mas_comprado, clientes_final_nuevo$Antiguedad, 
+     col= clientes_final_KM$cluster, xlab = "Producto", ylab = "fidelidad")
+aggregate(clientes_final_nuevo$total_Valor_mas_Comprado, clientes_final_nuevo[,2:6],
+         by=list(clientes_final_KM$cluster), mean)
+
+plot(clientes_final_nuevo$total_Valor_mas_Comprado, clientes_final_nuevo$Saldo, 
+     col=clientes_final_KM$cluster, xlab = "Dinero", ylab = "saldo")
+
+#Inspeccion de resultado 1
+plot(clientes_final_nuevo1$total_Producto_mas_comprado, clientes_final_nuevo1$total_Valor_mas_Comprado,
+     col= clientes_final_KM_1$cluster, xlab = "Producto", yalab = "Dinero")
+aggregate()
+#creacion de variables
+
+clientes_final_nuevo$cluster<-
+  as.numeric(clientes_final_KM$cluster)
+
+##########Regresion Simple###########
+
+#la correlacion de las variables para ver que variables voy a poner en la variable inependiente
+#graficamos para ver que variables se correlacionan
+attach(clientes_final_nuevo)
+pairs(clientes_final_nuevo[,2:6])
+
+#correlacion 
+#correlacion fuerte = 1 o -1
+#no hay correlacion = 0 
+#correlacion debil = 0,5
+
+cor(Edad, Saldo)
+cor(Saldo, Antiguedad)
+cor(total_Valor_mas_Comprado, total_Producto_mas_comprado)
+cor(total_Valor_mas_Comprado,Saldo)
+
+#creamos el Modelo
+
+modelo<-
+  lm(total_Producto_mas_comprado ~ total_Valor_mas_Comprado)  #calculamos el modelo
+#       valiable dependiente        variable independiente
+
+
+plot(total_Valor_mas_Comprado, total_Producto_mas_comprado, xlab = "compras", ylab = "prueba regrecion")
+abline(modelo, col= "Blue")   #linea que predecimos
+summary(modelo)
+
+#Predecir valores a travez del modelo
+predict(modelo, data_frame(total_Valor_mas_Comprado=32))    #Calcula la ecuacion de la recta
+predict(modelo, data_frame(total_Valor_mas_Comprado=16),
+        level = 0.95, interval = "Prediction")              #calcula la ecuacion de la recta
+
+Analisis_clientes_finales$valor_estimado<-
+  as.numeric(modelo$fitted.values)
+
+
+#exportar archivo
+setwd("/Users/yamaha/Dev/Rstudio/clase4")
+
+write.csv(Analisis_clientes_finales,"datos_final_usuarios.csv")
